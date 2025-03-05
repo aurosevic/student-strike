@@ -16,48 +16,68 @@ const { frontmatter } = await file("ostalo", lang);
   <section>
     <h2>{frontmatter.studenti_u_blokadi}</h2>
     <div class="nalozi">
-      <a href="https://instagram.com/studenti_u_blokadi">Instagram</a>
-      <a href="https://www.facebook.com/people/Studenti-u-blokadi-UB/61571631694236/">Facebook</a>
-      <a href="https://x.com/studentblokade">Twitter</a>
+      <a href="https://instagram.com/studenti_u_blokadi" target="_blank">Instagram</a>
+      <a href="https://www.facebook.com/people/Studenti-u-blokadi-UB/61571631694236/" target="_blank">Facebook</a>
+      <a href="https://x.com/studentblokade" target="_blank">Twitter</a>
     </div>
   </section>
   <section>
     <h2>{frontmatter.pojedinacni_fakulteti}</h2>
-    <div class="nalozi">
-      <a href="https://www.instagram.com/blokada.arh.bg">Arhitektonski</a>
-      <a href="https://www.instagram.com/blokada.fb">Bezbednosti</a>
-      <a href="https://www.instagram.com/blokada.bioloski">Biološki</a>
-      <a href="https://www.instagram.com/ekof.blokada">Ekonomski</a>
-      <a href="https://www.instagram.com/etfublokadi">Elektrotehnički</a>
-      <a href="https://www.instagram.com/blokada.ffubg">Farmaceutski</a>
-      <a href="https://www.instagram.com/filoloski.blokada">Filološki</a>
-      <a href="https://www.instagram.com/filozofi.u.blokadi">Filozofski</a>
-      <a href="https://www.instagram.com/blokadaffh">Fizička Hemija</a>
-      <a href="https://www.instagram.com/fizika_u_blokadi">Fizički</a>
-      <a href="https://www.instagram.com/blokada.gef">Geografski</a>
-      <a href="https://www.instagram.com/grf.blokade">Građevinski</a>
-      <a href="https://www.instagram.com/blokada.hf">Hemijski</a>
-      <a href="https://www.instagram.com/blokada.matf">Matematički</a>
-      <a href="https://www.instagram.com/masinci.u.blokadi">Mašinski</a>
-      <a href="https://www.instagram.com/blokada.mfub">Medicinski</a>
-      <a href="https://www.instagram.com/blokada_uf">Obrazovanje učitelja i vaspitača</a>
-      <a href="https://www.instagram.com/blokada.fon">Organizacione nauke</a>
-      <a href="https://www.instagram.com/blokada.fpn">Političke nauke</a>
-      <a href="https://www.instagram.com/poljprivredniblokada">Poljoprivredni</a>
-      <a href="https://www.instagram.com/blokada_pravni">Pravni</a>
-      <a href="#">Pravoslavni bogoslovski</a>
-      <a href="https://www.instagram.com/rafublokadi/">Računarski</a>
-      <a href="https://www.instagram.com/blokada.rgf">Rudarsko-geološki</a>
-      <a href="https://www.instagram.com/blokada.sfbg">Saobraćajni</a>
-      <a href="https://www.instagram.com/fasper_blokada">Specijalna edukacija i rehabilitacija</a>
-      <a href="https://www.instagram.com/dif.blokada">Sport i fizičko vaspitanje</a>
-      <a href="https://www.instagram.com/stomfbg_blokada">Stomatološki</a>
-      <a href="#">Tehnički u Boru</a>
-      <a href="https://www.instagram.com/tmf.blokada">Tehnološko-metalurški</a>
-      <a href="https://www.instagram.com/fvm_blokade">Veterinarska medicina</a>
-      <a href="https://www.instagram.com/blokada.sumarski">Šumarski</a>
+    <div class="nalozi" id="socialAccounts">
+      <a href="https://www.instagram.com/blokada.arh.bg" data-description="Arhitektonski" target="_blank">Arhitektonski</a>
+      <a href="https://www.instagram.com/blokada.fb" data-description="Bezbednosti" target="_blank">Bezbednosti</a>
+      <a href="https://www.instagram.com/blokada.bioloski" data-description="Biološki" target="_blank">Biološki</a>
+      <a href="https://www.instagram.com/ekof.blokada" data-description="Ekonomski" target="_blank">Ekonomski</a>
+      <a href="https://www.instagram.com/etfublokadi" data-description="Elektrotehnički" target="_blank">Elektrotehnički</a>
+      <a href="https://www.instagram.com/blokada.ffubg" data-description="Farmaceutski" target="_blank">Farmaceutski</a>
+      <a href="https://www.instagram.com/filoloski.blokada" data-description="Filološki" target="_blank">Filološki</a>
+      <a href="https://www.instagram.com/filozofi.u.blokadi" data-description="Filozofski" target="_blank">Filozofski</a>
+      <a href="https://www.instagram.com/blokadaffh" data-description="Fizička Hemija" target="_blank">Fizička Hemija</a>
+      <a href="https://www.instagram.com/fizika_u_blokadi" data-description="Fizički" target="_blank">Fizički</a>
+      <a href="https://www.instagram.com/blokada.gef" data-description="Geografski" target="_blank">Geografski</a>
+      <a href="https://www.instagram.com/grf.blokade" data-description="Građevinski" target="_blank">Građevinski</a>
+      <a href="https://www.instagram.com/blokada.hf" data-description="Hemijski" target="_blank">Hemijski</a>
+      <a href="https://www.instagram.com/blokada.matf" data-description="Matematički" target="_blank">Matematički</a>
+      <a href="https://www.instagram.com/masinci.u.blokadi" data-description="Mašinski" target="_blank">Mašinski</a>
+      <a href="https://www.instagram.com/blokada.mfub" data-description="Medicinski" target="_blank">Medicinski</a>
+      <a href="https://www.instagram.com/blokada_uf" data-description="Obrazovanje učitelja i vaspitača" target="_blank">Obrazovanje učitelja i vaspitača</a>
+      <a href="https://www.instagram.com/blokada.fon" data-description="Organizacione nauke" target="_blank">Organizacione nauke</a>
+      <a href="https://www.instagram.com/blokada.fpn" data-description="Političke nauke" target="_blank">Političke nauke</a>
+      <a href="https://www.instagram.com/poljprivredniblokada" data-description="Poljoprivredni" target="_blank">Poljoprivredni</a>
+      <a href="https://www.instagram.com/blokada_pravni" data-description="Pravni" target="_blank">Pravni</a>
+      <a href="#" data-description="Pravoslavni bogoslovski" target="_blank">Pravoslavni bogoslovski</a>
+      <a href="https://www.instagram.com/rafublokadi/" data-description="Računarski" target="_blank">Računarski</a>
+      <a href="https://www.instagram.com/blokada.rgf" data-description="Rudarsko-geološki" target="_blank">Rudarsko-geološki</a>
+      <a href="https://www.instagram.com/blokada.sfbg" data-description="Saobraćajni" target="_blank">Saobraćajni</a>
+      <a href="https://www.instagram.com/fasper_blokada" data-description="Specijalna edukacija i rehabilitacija" target="_blank">Specijalna edukacija i rehabilitacija</a>
+      <a href="https://www.instagram.com/dif.blokada" data-description="Sport i fizičko vaspitanje" target="_blank">Sport i fizičko vaspitanje</a>
+      <a href="https://www.instagram.com/stomfbg_blokada" data-description="Stomatološki" target="_blank">Stomatološki</a>
+      <a href="#" data-description="Tehnički u Boru" target="_blank">Tehnički u Boru</a>
+      <a href="https://www.instagram.com/tmf.blokada" data-description="Tehnološko-metalurški" target="_blank">Tehnološko-metalurški</a>
+      <a href="https://www.instagram.com/fvm_blokade" data-description="Veterinarska medicina" target="_blank">Veterinarska medicina</a>
+      <a href="https://www.instagram.com/blokada.sumarski" data-description="Šumarski" target="_blank">Šumarski</a>
+      <a href="https://www.instagram.com/sviublokade.fdu" data-description="Dramske umetnosti" target="_blank">Dramske umetnosti</a>
+      <a href="https://www.instagram.com/blokada.fmu" data-description="Muzičke umetnosti" target="_blank">Muzičke umetnosti</a>
     </div>
   </section>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const socialAccounts = document.getElementById('socialAccounts');
+      if (!socialAccounts) return;
+
+      const links = Array.from(socialAccounts.getElementsByTagName('a'));
+
+      links.sort((a, b) => {
+          const order = "ABČĆDĐEFGHIJKLMNOPRSŠTUVZŽ";
+          const aIndex = order.indexOf(a.dataset.description?.[0]?.toUpperCase() || '');
+          const bIndex = order.indexOf(b.dataset.description?.[0]?.toUpperCase() || '');
+          return aIndex - bIndex;
+      });
+
+      links.forEach(link => socialAccounts.appendChild(link));
+    });
+  </script>
 </Base>
 
 <style>
