@@ -175,6 +175,7 @@ collections:
         widget: list
         add_to_top: true
         required: false
+        i18n: false
         fields:
           - { label: "Naslov", name: "naslov", widget: "string" }
           - { label: "Datum", name: "datum", widget: "datetime", picker_utc: true }
