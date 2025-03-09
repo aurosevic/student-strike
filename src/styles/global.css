@@ -84,6 +84,7 @@ strong {
 
 :where(a, button).clear {
     all: unset;
+    cursor: pointer;
 }
 
 :where(a:not(.button):not(.clear), button.link) {
