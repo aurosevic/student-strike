@@ -6,6 +6,12 @@ draft: uredjivanje
 pubDate: 2025-03-10T23:10:00.000Z
 heroImage: '@assets/images/1000155773.jpg'
 timeline:
+  - naslov: Ситуација и даље мирна
+    datum: 2025-03-11T00:35:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/1000155861.jpg'
+    tekst: Окупљених људи око зграде РТС-а све више, упркос киши која почиње да пада.
   - naslov: Улаз блокирани и из Абердареве улице
     datum: 2025-03-10T23:53:00.000Z
     videos: []
