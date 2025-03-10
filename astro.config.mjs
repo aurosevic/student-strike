@@ -8,7 +8,7 @@ import purgecss from "astro-purgecss";
 // https://astro.build/config
 export default defineConfig({
     site: 'https://blokade.org',
-    integrations: [sitemap(), icon(), purgecss()],
+    integrations: [sitemap(), icon()],
     redirects: {
         '/sub': '/sr-lat/linkovi/studenti_u_blokadi',
     },
