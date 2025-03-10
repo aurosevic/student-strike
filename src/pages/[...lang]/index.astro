@@ -4,7 +4,7 @@ import { collection, file, langs } from "@scripts/i18n";
 import { getImage, Picture } from "astro:assets";
 
 import { SITE_DESCRIPTION } from "../../consts";
-import slavija from "@assets/images/slavija.jpg";
+import slavija from "@assets/images/slavija-test.jpg";
 import Live from "@components/Live.astro";
 import Slider from "../../components/Slider.astro";
 import Card from "../../components/Card.astro";
@@ -42,6 +42,8 @@ const akcije = await collection("akcije", lang);
       loading="eager"
       alt=""
       widths={[240, 540, 720, slavija.width]}
+      width={slavija.width}
+      height={320}
       sizes={`(max-width: 360px) 240px, (max-width: 720px) 540px, (max-width: 1600px) 720px, ${slavija.width}px`}
     />
 
