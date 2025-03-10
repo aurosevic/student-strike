@@ -34,6 +34,9 @@ export async function getStaticPaths() {
               {post.data.live && 
                 <Live>{frontmatter.live}</Live>
               }
+              {lang !== post.lang && 
+                <p class="untranslated">Currently untranslated</p>
+              }
               <h2 class="title">{post.data.title}</h2>
               <p class="date">
                 <FormattedDate date={post.data.pubDate} />
@@ -120,5 +123,9 @@ export async function getStaticPaths() {
     position: absolute;
     top: 2rem;
     left: 2rem;
+  }
+
+  .untranslated {
+    background-color: bisque;
   }
 </style>
