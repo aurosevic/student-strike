@@ -3,14 +3,17 @@ import FormattedDate from "./FormattedDate.astro";
 import { type CollectionEntry } from "astro:content";
 import {Picture} from "astro:assets";
 
-type Props = CollectionEntry<'vesti' | 'akcije'> & { link: string };
+type Props = CollectionEntry<'vesti' | 'akcije'> & { lang: string, link: string };
 
-const { body, data, link } = Astro.props;
+const { body, data, link, lang } = Astro.props;
+const { lang: expectedLang } = Astro.params;
 ---
 
 <article class="card">
   <a href={link} class="clear">
     <Picture transition:name={link} class="thumbnail" formats={['avif', 'webp']} width={1020} src={data.heroImage} alt="" />
+
+    {lang !== expectedLang && <span class="untranslated">Currently untranslated</span>}
     <div class="content">
       <FormattedDate date={data.pubDate} />
       <h3>{data.title}</h3>
@@ -58,5 +61,11 @@ const { body, data, link } = Astro.props;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+  }
+
+  .untranslated {
+      background-color: bisque;
+      padding: 0.1rem 1rem;
+      margin-top: 0.5rem;
   }
 </style>

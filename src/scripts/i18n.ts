@@ -1,22 +1,52 @@
 import type { AstroComponentFactory } from 'astro/runtime/server/index.js';
-import { type CollectionEntry, type AnyEntryMap, getCollection, render } from 'astro:content';
+import {
+    type CollectionEntry,
+    type AnyEntryMap,
+    getCollection,
+    render,
+    getEntry, type ContentEntryMap
+} from 'astro:content';
 
 export const langs = ["sr", "sr-lat", "en", undefined];
+
+const fallbackLanguages = ["en", "sr-lat"];
+
+export async function collectionIDs<T extends "vesti" | "akcije">(
+  collection: T
+): Promise<string[]> {
+  const all =
+    (await getCollection(collection))
+      .map((collection) => collection.id.split('/')[1]);
+
+  return [...new Set(all)];
+
+}
 
 export async function collection<T extends "vesti" | "akcije">(
     collection: T,
     lang: string = "all"
 ): Promise<(CollectionEntry<T> & {lang: string})[]> {
-    const c = (await getCollection(collection))
-      // .filter(({data}) => !data.draft)
-      .map(post => ({...post, lang: post.id.split('/')[0], id: post.id.split('/')[1]}))
-      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+    const ids = await collectionIDs(collection);
+    const all = await Promise.all(ids.map(async id => await entry(collection, id, lang)));
 
-    if (lang === "all") {
-        return c;
+    return all.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+}
+
+export async function entry<T extends "vesti" | "akcije">(
+  collection: T,
+  entry: string,
+  lang: string = "sr"
+): Promise<CollectionEntry<T> & {lang: string, id: string}> {
+    let e = await getEntry(collection, `${lang}/${entry}`);
+
+    for (let lang of fallbackLanguages) {
+        if (!!e) { break; }
+
+        e = await getEntry(collection, `${lang}/${entry}`);
     }
-    
-    return c.filter(post => lang === post.lang);
+
+    const c = e as CollectionEntry<T>;
+    return {...c, lang: c.id.split('/')[0], id: c.id.split('/')[1]};
 }
 
 export async function file<C extends keyof AnyEntryMap>(
