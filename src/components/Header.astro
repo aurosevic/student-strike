@@ -152,7 +152,7 @@ const jezik = (jezik: string) => {
 		transition: opacity 0.2s;
 	}
 
-	[popover]:popover-open::backdrop {
+	[popover]:is(:popover-open, .\:popover-open)::backdrop {
 		opacity: 1;
 		pointer-events: none;
 		background-color: rgba(0, 0, 0, 0.2);
@@ -162,23 +162,23 @@ const jezik = (jezik: string) => {
 		}
 	}
 
-	#menu-links:popover-open nav {
+	#menu-links:is(:popover-open, .\:popover-open) nav {
 		padding-block: 1rem;
 		flex-direction: column;
 		align-items: stretch;
 	}
 
-	#menu-links:popover-open a {
+	#menu-links:is(:popover-open, .\:popover-open) a {
 		padding: 0.5rem 2rem;
 		border-bottom: 4px solid transparent;
 		border-left: 4px solid transparent;
 	}
 
-	#menu-links:popover-open a.active {
+	#menu-links:is(:popover-open, .\:popover-open) a.active {
 		border-left-color: var(--accent);
 	}
 
-	#menu-links:popover-open button {
+	#menu-links:is(:popover-open, .\:popover-open) button {
 		padding: .5rem 2rem;
 	}
 

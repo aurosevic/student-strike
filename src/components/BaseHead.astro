@@ -1,8 +1,6 @@
 ---
 import '../styles/reset.css'
 import '../styles/global.css';
-import { ClientRouter } from 'astro:transitions';
-import { AstroFont } from "astro-font";
 
 interface Props {
 	title: string;
@@ -53,7 +51,8 @@ const { title, description, image } = Astro.props;
 	<meta property="twitter:image" content={new URL(image, Astro.url)} />
 }
 
-<ClientRouter />
+<!-- <ClientRouter /> -->
+<meta name="astro-view-transitions-enabled" content="false" />
 
 <!-- Google tag (gtag.js) -->
 <script is:inline defer src="https://www.googletagmanager.com/gtag/js?id=G-LR43G5KCPF" />
@@ -65,4 +64,12 @@ const { title, description, image } = Astro.props;
 	gtag("js", new Date());
 
 	gtag("config", "G-LR43G5KCPF");
+</script>
+
+<script>
+	import { apply, isSupported } from '@oddbird/popover-polyfill/fn';
+
+	if (!isSupported()) {
+		apply();
+	}
 </script>
