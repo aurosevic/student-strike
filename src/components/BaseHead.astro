@@ -2,6 +2,7 @@
 import '../styles/reset.css'
 import '../styles/global.css';
 import { ClientRouter } from 'astro:transitions';
+import { AstroFont } from "astro-font";
 
 interface Props {
 	title: string;
@@ -21,7 +22,8 @@ const { title, description, image } = Astro.props;
 <meta name="generator" content={Astro.generator} />
 
 <!-- Font preloads -->
-<link rel="preload" href="/fonts/montserrat-variable.ttf" as="font" type="font/ttf" crossorigin />
+<link rel="preload" href="/fonts/montserrat-v29-cyrillic_latin-regular.woff2" as="font" type="font/ttf" crossorigin />
+<link rel="preload" href="/fonts/montserrat-v29-cyrillic_latin-700.woff2" as="font" type="font/ttf" crossorigin />
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
@@ -54,13 +56,13 @@ const { title, description, image } = Astro.props;
 <ClientRouter />
 
 <!-- Google tag (gtag.js) -->
-<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-LR43G5KCPF" />
-<script is:inline>
-	window.dataLayer = window.dataLayer || [];
-	function gtag() {
-		dataLayer.push(arguments);
-	}
-	gtag("js", new Date());
+<!--<script is:inline defer src="https://www.googletagmanager.com/gtag/js?id=G-LR43G5KCPF" />-->
+<!--<script defer is:inline>-->
+<!--	window.dataLayer = window.dataLayer || [];-->
+<!--	function gtag() {-->
+<!--		dataLayer.push(arguments);-->
+<!--	}-->
+<!--	gtag("js", new Date());-->
 
-	gtag("config", "G-LR43G5KCPF");
-</script>
+<!--	gtag("config", "G-LR43G5KCPF");-->
+<!--</script>-->
