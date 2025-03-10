@@ -2,7 +2,7 @@
 import { type CollectionEntry } from 'astro:content';
 import BlogPost from '../../../layouts/BlogPost.astro';
 import { render } from 'astro:content';
-import { collection } from '@scripts/i18n';
+import { collectionIDs, entry, langs } from '@scripts/i18n';
 
 const { lang } = Astro.params;
 if (typeof lang === "undefined") {
@@ -10,11 +10,15 @@ if (typeof lang === "undefined") {
 }
 
 export async function getStaticPaths() {
-	const posts = await collection('vesti');
-	return posts.map((post) => ({
-		params: { lang: post.lang, slug: post.id },
-		props: post,
-	}));
+	const posts = await collectionIDs('vesti');
+
+	return await Promise.all(langs
+		.flatMap(lang => posts.flatMap(id => ({lang, id})))
+		.map(async ({lang, id}) => ({
+				params: {lang, slug: id},
+				props: await entry('vesti', id, lang),
+			})
+		));
 }
 
 type Props = CollectionEntry<'vesti'> & {lang: string};

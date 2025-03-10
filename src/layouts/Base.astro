@@ -8,11 +8,12 @@ import { langs } from "@scripts/i18n";
 interface Props {
 	title: string;
 	description: string;
-    lang: string;
+  lang: string;
 	image?: string;
 }
 
-const { title, description, lang, image } = Astro.props;
+const { title, description, image } = Astro.props;
+const { lang } = Astro.params;
 ---
 
 <!doctype html>
