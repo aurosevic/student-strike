@@ -3,8 +3,6 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import icon from "astro-icon";
 
-import purgecss from "astro-purgecss";
-
 // https://astro.build/config
 export default defineConfig({
     site: 'https://blokade.org',

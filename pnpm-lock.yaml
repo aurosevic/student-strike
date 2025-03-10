@@ -29,9 +29,6 @@ importers:
       astro-icon:
         specifier: ^1.1.5
         version: 1.1.5
-      astro-purgecss:
-        specifier: ^5.2.2
-        version: 5.2.2(astro@5.4.2(@types/node@22.13.10)(rollup@4.35.0)(typescript@5.7.3)(yaml@2.7.0))(purgecss@7.0.2)
       purgecss:
         specifier: ^7.0.2
         version: 7.0.2
@@ -592,12 +589,6 @@ packages:
 
   astro-icon@1.1.5:
     resolution: {integrity: sha512-CJYS5nWOw9jz4RpGWmzNQY7D0y2ZZacH7atL2K9DeJXJVaz7/5WrxeyIxO8KASk1jCM96Q4LjRx/F3R+InjJrw==}
-
-  astro-purgecss@5.2.2:
-    resolution: {integrity: sha512-lL4JqBlIyRTj6CQPJrGRWJYX6OzyGBEGjLwxmgSHALn0xKsU0zf9X4Lnd+L+SM0wa+o7UbD9wXMhmK42sjXl8g==}
-    peerDependencies:
-      astro: ^5.0.0
-      purgecss: ^7.0.0
 
   astro@5.4.2:
     resolution: {integrity: sha512-9Z3fAniIRJaK/o43OroZA1wHUIU+qHiOR9ovlVT/2XQaN25QRXScIsKWlFp0G/zrx5OuuoJ+QnaoHHW061u26A==}
@@ -2443,11 +2434,6 @@ snapshots:
     transitivePeerDependencies:
       - debug
       - supports-color
-
-  astro-purgecss@5.2.2(astro@5.4.2(@types/node@22.13.10)(rollup@4.35.0)(typescript@5.7.3)(yaml@2.7.0))(purgecss@7.0.2):
-    dependencies:
-      astro: 5.4.2(@types/node@22.13.10)(rollup@4.35.0)(typescript@5.7.3)(yaml@2.7.0)
-      purgecss: 7.0.2
 
   astro@5.4.2(@types/node@22.13.10)(rollup@4.35.0)(typescript@5.7.3)(yaml@2.7.0):
     dependencies:
