@@ -6,6 +6,12 @@ draft: uredjivanje
 pubDate: 2025-03-10T23:10:00.000Z
 heroImage: '@assets/images/1000155773.jpg'
 timeline:
+  - naslov: Пристиже велики број грађана
+    datum: 2025-03-10T23:41:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/1000155792.jpg'
+    tekst: Иако је акција ненајављена, све већи број грађана се окупља да подржи студентску иницијативу
   - naslov: Редари доносе физичке барикаде
     datum: 2025-03-10T23:29:00.000Z
     videos: []
