@@ -69,6 +69,17 @@ const zahtevi = defineCollection({
 	}),
 });
 
+const faq = defineCollection({
+	loader: glob({ base: './src/content/stranice', pattern: '**/faq.md' }),
+	schema: () => z.object({
+		naslov: z.string(),
+		pitanja: z.object({
+			pitanje: z.string(),
+			odgovor: z.string()
+		}).array()
+	}),
+});
+
 const oblokadama = defineCollection({
 	loader: glob({ base: './src/content/stranice', pattern: '**/o-blokadama.md' }),
 	schema: () => z.object({}),
@@ -98,4 +109,4 @@ const ostalo = defineCollection({
 	}),
 });
 
-export const collections = { vesti, akcije, linkovi, pocetna, zahtevi, oblokadama, zaglavlje, ostalo };
+export const collections = { vesti, akcije, linkovi, pocetna, zahtevi, faq, oblokadama, zaglavlje, ostalo };
