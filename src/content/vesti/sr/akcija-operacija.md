@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-03-10T23:10:00.000Z
 heroImage: '@assets/images/1000155773.jpg'
 timeline:
+  - naslov: Блокада се полако приводи крају
+    datum: 2025-03-11T21:03:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/1000156469.jpg'
+      - '@assets/images/1000156473.jpg'
+    tekst: Након 22 сата блокаде РТС-а, грађани се разилазе, док студенти чисте простор испред зграде
   - naslov: Трећа смена не спава
     datum: 2025-03-11T02:48:00.000Z
     videos: []
