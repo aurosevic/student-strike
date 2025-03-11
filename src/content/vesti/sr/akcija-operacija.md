@@ -6,6 +6,12 @@ draft: uredjivanje
 pubDate: 2025-03-10T23:10:00.000Z
 heroImage: '@assets/images/1000155773.jpg'
 timeline:
+  - naslov: Трећа смена ме спава
+    datum: 2025-03-11T02:48:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/1000155962.jpg'
+    tekst: И након што су последњи ноћни аутобуси прошли, значајан број геађана стоји испред зграде РТС-а
   - naslov: Ситуација и даље мирна
     datum: 2025-03-11T00:35:00.000Z
     videos: []
