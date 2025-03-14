@@ -1,26 +1,36 @@
 ---
 naslov: Честа питања
+podnaslov: Ово су нека питања која су нас многи од вас питали. На питања су одговарали студенти у блокади високошколских установа у Београду. Уколико не видите одговор на ваше питање у овој листи, можете нас питати путем форме.
+dugme: Питајте нас
 pitanja:
   - pitanje: Шта је пленум?
     odgovor: |-
-      Plenum je mesto na kome donosimo odluke demokratskim putem. Pravo glasanja na plenumu imaju svi studenti matične visokoškolske ustanove. 
+      **Пленум је место на коме доносимо одлуке демократским путем. Право гласања на пленуму имају сви студенти матичне високошколске установе.**
 
-      Neki fakulteti održavaju plenume svakog dana, a drugi par puta nedeljno. Generalno se većina fakulteta na plenumima pridržava nekih osnovnih pravila - diskusijom i glasanjem upravlja jedan ili više moderatora, zapisničar beleži najbitnije delove diskusije i evidentira glasanja. 
+      Неки факултети одржавају пленуме сваког дана, а други пар пута недељно. Генерално се већина факултета на пленумима придржава неких основних правила - дискусијом и гласањем управља један или више модератора, записничар бележи најбитније делове дискусије и евидентира гласања.
       
-      Učesnici na plenumu se javljaju za reč, repliku (odgovor na nečije izlaganje) ili pitanje. Generalno se izbegava dijalog između pojedinaca u toku plenuma kako bi se održala pristojna rasprava i kako bi svi stigli na red da govore. Moderator određuje red govora, proziva i pazi da neko ne prekorači vreme koje je predviđeno za izlaganje. 
+      Учесници на пленуму се јављају за реч, реплику (одговор на нечије излагање) или питање. Модератор одређује ред говора, прозива и пази да неко не прекорачи време које је предвиђено за излагање.
       
-      Zapisničar na kraju plenuma šalje zapisnik negde gde ga mogu videti svi studenti tog fakulteta. Moderatori i zapisničari se biraju na kraju svakog plenuma i većinski je praksa da se isti ljudi ne ponavljaju previše često u ovim ulogama.
+      Записничар на крају пленума шаље записник негде где га могу видети сви студенти тог факултета. Модератори и записничари се бирају на крају сваког пленума и већински је пракса да се исти људи не понављају превише често у овим улогама.
 
-  - pitanje: Kako donosite odluke na plenumu?
+
+  - pitanje: Како доносите одлуке на пленуму?
     odgovor: |-
-      Odluke na plenumu donosimo većinom glasova. Pre svakog glasanja otvara se diskusija na kojoj svako ima pravo da iznese argumente za ili protiv neke ideje. 
-      Konačna odluka plenuma utvrđuje se većinom glasova.
+      Одлуке на пленуму доносимо већином гласова. Пре сваког гласања отвара се дискусија на којој свако има право да изнесе аргументе за или против неке идеје.
+      Коначна одлука пленума утврђује се већином гласова.
 
-  - pitanje: Šta je radna grupa?
+  - pitanje: Шта је радна група?
     odgovor: |-
-      Radna grupa je naziv za grupu studenata u okviru jednog fakulteta koja se posebno interesuje i bavi jednom konkretnom delatnosti. 
+      **Радна група је назив за групу студената у оквиру једног факултета која се посебно интересује и бави једном конкретном делатности.**
       
-      Na primer u radnoj grupi nekog fakulteta za medije učestvuju studenti koje interesuje da prave sadržaj za objave na Instagramu, održavaju društvene mreže, izlaze u medije, daju izjave i intervjue. Na većini fakulteta bilo ko od studenata se može pridružiti radnoj grupi bez neke formalne procedure. 
+      На пример у радној групи неког факултета за медије учествују студенти које интересује да праве садржај за објаве на Инстаграму, одржавају друштвене мреже, излазе у медије, дају изјаве и интервјуе. На већини факултета било ко од студената се може придружити радној групи без неке формалне процедуре.
 
-      Većina fakulteta ima barem radne grupe za: strategiju (planiranje akcija), donacije (prikupljanje, organizacija i raspodela doniranih stvari), komunikaciju (prenos značajnih informacija i obaveštenja među fakultetima), bezbednost (redari na akcijama i svakodnevno na fakultetima) i medije
+      Већина факултета има барем радне групе за: **стратегију** (планирање акција), **донације** (прикупљање, организација и расподела донираних ствари), **комуникацију** (пренос значајних информација и обавештења међу факултетима), **безбедност** (редари на акцијама и свакодневно на факултетима) и **медије**.
+
+  - pitanje: Како да знам да је нека одлука или акција званично изгласана на нивоу универзитета?
+    odgovor: |-
+      Званичне изјаве, одлуке, акције, објаве подршке и сл. које су изгласане на нивоу свих студената високошколских установа у блокади у Београду се објављују искључиво на нашем [Инстаграм профилу](https://instagram.com/studenti_u_blokadi), на [X налогу](https://x.com/studentblokade), [Фејсбук налогу](https://www.facebook.com/people/Studenti-u-blokadi-UB/61571631694236/) и овом веб сајту. 
+      
+      Уколико није објављено на некој од ових мрежа могуће је да иза тога стоји неки факултет, али напросто није нешто што је изгласано на нивоу свих високошколских установа у блокади.
+
 ---
