@@ -68,6 +68,12 @@ const { frontmatter } = await file("ostalo", lang);
   .prose {
     color: rgb(var(--gray-dark));
   }
+
+  .prose > :global(h1, h2, h3) {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+
   .prose > :global(p) > :global(img) {
     width: 720px;
     max-width: calc(100% - 2em);
