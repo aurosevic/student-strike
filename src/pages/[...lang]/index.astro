@@ -65,7 +65,7 @@ const akcije = await collection("akcije", lang);
     {pocetna.vesti_tekst && <p class="section-subtitle">{pocetna.vesti_tekst}</p>}
     <Slider>
       {vesti.slice(0, 3).map(post =>
-        <Card link=`/${lang}/vesti/${post.id}` {...post} />)
+        <Card link={`/${lang}/vesti/${post.id}`} {...post} />)
       }
       <a slot="button" href=`/${lang}/vesti` class="button primary dugme">{pocetna.vesti_dugme}</a>
     </Slider>
@@ -85,7 +85,7 @@ const akcije = await collection("akcije", lang);
     {pocetna.akcije_tekst && <p class="section-subtitle">{pocetna.akcije_tekst}</p>}
     <Slider>
       {akcije.slice(0, 3).map(post =>
-        <Card link=`/${lang}/akcije/${post.id}` {...post} />)
+        <Card link={`/${lang}/akcije/${post.id}`} {...post} />)
       }
       <a slot="button" href=`/${lang}/akcije` class="button primary dugme">{pocetna.akcije_dugme}</a>
     </Slider>
