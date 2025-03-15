@@ -2,7 +2,7 @@ import { glob } from 'astro/loaders';
 import { defineCollection, z } from 'astro:content';
 
 const vesti = defineCollection({
-	loader: glob({ base: './src/content/vesti', pattern: '**/*.md' }),
+	loader: glob({ base: './src/content/vesti', pattern: '**/*.(md|mdx)' }),
 	schema: ({ image }) => z.object({
 		link: z.string(),
 		title: z.string(),
