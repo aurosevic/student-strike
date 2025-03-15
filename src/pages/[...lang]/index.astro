@@ -91,11 +91,11 @@ const akcije = await collection("akcije", lang);
     </Slider>
   </section>
 
+<!-- 
   <section class="gap">
     <h2>{frontmatter_faq.naslov}</h2>
     {frontmatter_faq.podnaslov && <p class="section-subtitle">{frontmatter_faq.podnaslov}</p>}
     <div class="pitanja">
-      <a href="https://forms.gle/EXjYqREErj14cZ6X8" class="button primary dugme">{frontmatter_faq.dugme}</a>
       {frontmatter_faq.pitanja.map(
         (entry: {pitanje: string, odgovor: string}) => 
           <details>
@@ -105,8 +105,9 @@ const akcije = await collection("akcije", lang);
             </div>
           </details>
       )}
+      <a href="https://forms.gle/EXjYqREErj14cZ6X8" class="button primary dugme">{frontmatter_faq.dugme}</a>
     </div>
-  </section>
+  </section> -->
 
 </Base>
 
