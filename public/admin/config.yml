@@ -65,6 +65,23 @@ collections:
               - { label: "Konkretizacija", name: "konkretizacija", widget: "markdown", i18n: true }
           - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
 
+      - label: "FAQ"
+        name: "faq"
+        file: "src/content/stranice/{{locale}}/faq.md"
+        create: false
+        i18n: true
+        fields:
+          - { label: "Naslov", name: "naslov", widget: "string", i18n: true }
+          - label: "Pitanja"
+            label_singular: 'Pitanje'
+            name: "pitanja"
+            widget: "list"
+            i18n: true
+            fields:
+              - { label: "Pitanje", name: "pitanje", widget: "string", i18n: true }
+              - { label: "Odgovor", name: "odgovor", widget: "markdown", i18n: true }
+          - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
+
       - label: "Zaglavlje"
         name: "zaglavlje"
         file: "src/content/stranice/{{locale}}/zaglavlje.md"
