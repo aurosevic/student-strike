@@ -15,6 +15,7 @@
     "@astropub/md": "^1.0.0",
     "@iconify-json/mdi": "^1.2.3",
     "@oddbird/popover-polyfill": "^0.5.2",
+    "@sveltia/cms": "^0.62.0",
     "astro": "^5.4.2",
     "astro-icon": "^1.1.5",
     "purgecss": "^7.0.2",

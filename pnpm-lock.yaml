@@ -26,6 +26,9 @@ importers:
       '@oddbird/popover-polyfill':
         specifier: ^0.5.2
         version: 0.5.2
+      '@sveltia/cms':
+        specifier: ^0.62.0
+        version: 0.62.0
       astro:
         specifier: ^5.4.2
         version: 5.4.2(@types/node@22.13.10)(rollup@4.35.0)(typescript@5.7.3)(yaml@2.7.0)
@@ -514,6 +517,9 @@ packages:
 
   '@shikijs/vscode-textmate@10.0.2':
     resolution: {integrity: sha512-83yeghZ2xxin3Nj8z1NMd/NCuca+gsYXswywDy5bHvwlWL8tpTQmzGeUuHd9FC3E/SBEMvzJRwWEOz5gGes9Qg==}
+
+  '@sveltia/cms@0.62.0':
+    resolution: {integrity: sha512-PO0K+f/FUCBBMOkTviRwHkjFLLI+nM0/+dpajjoI7TLFJtJQnCRc2sQcxaKPrpH/pJjuhyyeLTxovrk5HgrsBg==}
 
   '@trysound/sax@0.2.0':
     resolution: {integrity: sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==}
@@ -2582,6 +2588,8 @@ snapshots:
       '@types/hast': 3.0.4
 
   '@shikijs/vscode-textmate@10.0.2': {}
+
+  '@sveltia/cms@0.62.0': {}
 
   '@trysound/sax@0.2.0': {}
 

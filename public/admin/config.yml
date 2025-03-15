@@ -17,6 +17,7 @@ output:
 i18n:
   structure: multiple_folders
   locales: [sr, en]
+  initial_locales: [sr]
   default_locale: sr
   save_all_locales: false
 
