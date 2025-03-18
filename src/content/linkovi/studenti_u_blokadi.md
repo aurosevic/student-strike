@@ -1,9 +1,6 @@
 ---
 link: studenti_u_blokadi
 linkovi:
-  - ikonica: car
-    naslov: Prevoz do Beograda
-    link: https://docs.google.com/forms/d/e/1FAIpQLScz8Is69-kLv_ZVqvKsjLabFQfNu2_JqW6PZR8lINdLJK4ZEg/viewform?usp=sharin
   - ikonica: web
     naslov: Zvanični sajt studenata u blokadi
     link: https://blokade.org
