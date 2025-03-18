@@ -14,7 +14,6 @@ do
             -e "s/љ/lj/g" \
             -e "s/њ/nj/g" \
             -e "s/џ/dž/g" \
-            -e "s/> >/>/g" \
             > "$dir/sr-lat/$(basename "$file")"
     done
 done
