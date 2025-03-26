@@ -1,11 +1,16 @@
 ---
 link: svi-do-mosta
 title: Сви до моста, јер је доста
-live: true
+live: false
 draft: uredjivanje
 pubDate: 2025-03-26T16:01:00.000Z
 heroImage: '@assets/images/photo_2025-03-26_16-12-05.jpg'
 timeline:
+  - naslov: 10 минута буке
+    datum: 2025-03-26T16:05:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: 19 минута тишине
     datum: 2025-03-26T15:45:00.000Z
     videos: []
