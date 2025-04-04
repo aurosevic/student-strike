@@ -7,6 +7,16 @@ pubDate: 2025-04-04T13:25:00.000Z
 heroImage: '@assets/images/dan-studenata-1.png'
 description: О насиљу и неиспуњењу захтева
 timeline:
+  - naslov: Студенти се у тишини приближавају Новом гробљу
+    datum: 2025-04-04T17:04:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
+  - naslov: Колона стиже до Вуковог споменика
+    datum: 2025-04-04T16:54:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: Након говора, студенти се упућују ка Новом гробљу
     datum: 2025-04-04T16:40:00.000Z
     videos: []
