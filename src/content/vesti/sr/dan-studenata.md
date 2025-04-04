@@ -1,12 +1,17 @@
 ---
 link: dan-studenata
 title: Дан студената
-live: true
+live: false
 draft: uredjivanje
 pubDate: 2025-04-04T13:25:00.000Z
 heroImage: '@assets/images/dan-studenata-1.png'
 description: О насиљу и неиспуњењу захтева
 timeline:
+  - naslov: Студенти су положили венце и сад се враћаају матичним факултетима
+    datum: 2025-04-04T17:27:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: Уношење венца
     datum: 2025-04-04T17:15:00.000Z
     videos: []
