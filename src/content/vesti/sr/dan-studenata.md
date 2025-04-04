@@ -10,7 +10,8 @@ timeline:
   - naslov: Студенти се из парка Милутина миланковића упућују ка Правном факултету
     datum: 2025-04-04T15:31:00.000Z
     videos: []
-    slike: []
+    slike:
+      - '@assets/images/kolona-pravni.jpeg'
     tekst: ''
   - naslov: Минут ћутања за Жарка Мариновића
     datum: 2025-04-04T15:14:00.000Z

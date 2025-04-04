@@ -9,14 +9,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.2.0",
     "@astrojs/rss": "^4.0.11",
-    "@astrojs/sitemap": "^3.2.1",
+    "@astrojs/sitemap": "^3.3.0",
     "@astropub/md": "^1.0.0",
     "@iconify-json/mdi": "^1.2.3",
     "@oddbird/popover-polyfill": "^0.5.2",
-    "@sveltia/cms": "^0.62.0",
-    "astro": "^5.4.2",
+    "@sveltia/cms": "^0.68.0",
+    "astro": "^5.6.1",
     "astro-icon": "^1.1.5",
     "purgecss": "^7.0.2",
     "sharp": "^0.33.5"
