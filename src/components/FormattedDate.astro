@@ -23,7 +23,8 @@ const locale = (lang?: string) => {
 			<strong>
 				{date.toLocaleTimeString(locale(lang), {
 					hour: 'numeric',
-					minute: 'numeric'
+					minute: 'numeric',
+					timeZone: 'UTC'
 				})}
 			</strong> |
 		</>
@@ -33,6 +34,7 @@ const locale = (lang?: string) => {
 			year: 'numeric',
 			month: 'short',
 			day: 'numeric',
+			timeZone: 'UTC'
 		})
 	}
 </time>

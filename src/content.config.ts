@@ -6,6 +6,7 @@ const vesti = defineCollection({
 	schema: ({ image }) => z.object({
 		link: z.string(),
 		title: z.string(),
+		description: z.string().optional(),
 		live: z.boolean(),
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),

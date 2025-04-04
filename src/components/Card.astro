@@ -17,7 +17,7 @@ const { lang: expectedLang } = Astro.params;
     <div class="content">
       <FormattedDate date={data.pubDate} />
       <h3>{data.title}</h3>
-      <p class="subtitle">{body}</p>
+      <p class="subtitle">{data.description ?? body}</p>
     </div>
   </a>
 </article>
