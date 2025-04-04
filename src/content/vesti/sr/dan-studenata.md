@@ -7,6 +7,11 @@ pubDate: 2025-04-04T13:25:00.000Z
 heroImage: '@assets/images/dan-studenata-1.png'
 description: О насиљу и неиспуњењу захтева
 timeline:
+  - naslov: Уношење венца
+    datum: 2025-04-04T17:15:00.000Z
+    videos: []
+    slike: []
+    tekst: Мали број студената уноси венце, док остатак колоне стоји у тишини пред капијом.
   - naslov: Студенти се у тишини приближавају Новом гробљу
     datum: 2025-04-04T17:04:00.000Z
     videos: []
