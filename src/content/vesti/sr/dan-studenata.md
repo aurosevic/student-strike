@@ -7,6 +7,18 @@ pubDate: 2025-04-04T13:25:00.000Z
 heroImage: '@assets/images/dan-studenata-1.png'
 description: О насиљу и неиспуњењу захтева
 timeline:
+  - naslov: Шеснаестоминутна тишина
+    datum: 2025-04-04T16:00:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/photo_2025-04-04_16-15-09.jpg'
+      - '@assets/images/16-minuta-cutanja.jpeg'
+    tekst: ''
+  - naslov: Студентска колона стиже до Правног факултета
+    datum: 2025-04-04T15:54:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: Студенти се из парка Милутина миланковића упућују ка Правном факултету
     datum: 2025-04-04T15:31:00.000Z
     videos: []
