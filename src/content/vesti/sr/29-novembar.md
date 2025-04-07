@@ -5,6 +5,13 @@ live: true
 draft: uredjivanje
 pubDate: 2025-04-07T21:24:00.000Z
 heroImage: '@assets/images/29-novembar.png'
+timeline:
+  - naslov: Скупљају се студенти и народ
+    datum: 2025-04-07T23:55:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/20250407.jpg'
+    tekst: ''
 ---
 Наш колега, студент Саобраћајног факултета, је вечерас око 20 часова, враћајући се са часа немачког језика, **изненада приведен од стране полиције**.
 
