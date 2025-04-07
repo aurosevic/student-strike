@@ -9,7 +9,8 @@ timeline:
   - naslov: Акција је готова
     datum: 2025-04-08T00:10:00.000Z
     videos: []
-    slike: []
+    slike:
+      - '@assets/images/govor-29-novmebar.jpg'
     tekst: Након кратког говора у ком се захваљује на подршци, колега проглашава крај акције.
   - naslov: Саопштење
     datum: 2025-04-08T00:02:00.000Z
