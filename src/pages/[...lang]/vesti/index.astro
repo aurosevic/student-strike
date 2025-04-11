@@ -23,7 +23,10 @@ export async function getStaticPaths() {
 ---
 
 <Base {lang} title={SITE_TITLE} description={SITE_DESCRIPTION}>
-  <h1>{frontmatter.vesti}</h1>
+  <div class="flex">
+    <h1>{frontmatter.vesti}</h1>
+    <button id="subscribe">{frontmatter.notifikacije}</button>
+  </div>
   <section>
     <ul>
       {
@@ -31,12 +34,16 @@ export async function getStaticPaths() {
           <li>
             <a class="clear" href={`/${lang}/vesti/${post.id}/`}>
               <Picture transition:name={`/${lang}/vesti/${post.id}`} formats={['avif', 'webp']} width={720} src={post.data.heroImage} loading={index <= 3 ? "eager" : "lazy"} alt="" />
-              {post.data.live && 
-                <Live>{frontmatter.live}</Live>
-              }
-              {lang !== post.lang && 
-                <p class="untranslated">Currently untranslated</p>
-              }
+              <>
+                {post.data.live &&
+                  <Live>{frontmatter.live}</Live>
+                }
+              </>
+              <>
+                {lang !== post.lang &&
+                  <p class="untranslated">Currently untranslated</p>
+                }
+              </>
               <h2 class="title">{post.data.title}</h2>
               <p class="date">
                 <FormattedDate date={post.data.pubDate} />
@@ -50,6 +57,11 @@ export async function getStaticPaths() {
 </Base>
 
 <style>
+  .flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
   ul {
     display: flex;
     flex-wrap: wrap;
@@ -129,3 +141,15 @@ export async function getStaticPaths() {
     background-color: bisque;
   }
 </style>
+
+<script>
+  import { subscribe } from "@scripts/sw";
+  document.getElementById("subscribe")?.addEventListener("click", async () => {
+    try {
+      await subscribe()
+      alert("Notifications enabled");
+    } catch (e) {
+      alert(JSON.stringify(e));
+    }
+  });
+</script>

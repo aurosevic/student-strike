@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
+import { defineConfig, envField } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import icon from "astro-icon";
 
@@ -19,6 +19,18 @@ export default defineConfig({
         routing: {
             prefixDefaultLocale: false,
             fallbackType: "rewrite"
+        }
+    },
+    env: {
+        schema: {
+            VAPID_PUBLIC_KEY: envField.string({ context: "client", access: "public" }),
+        }
+    },
+    vite: {
+        server: {
+            proxy: {
+                "/register": "http://localhost:8888/.netlify/functions/register",
+            }
         }
     }
 });

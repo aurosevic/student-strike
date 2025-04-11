@@ -103,6 +103,7 @@ const ostalo = defineCollection({
 		naslov: z.string(),
 		akcije: z.string(),
 		vesti: z.string(),
+		notifikacije: z.string(),
 		kontakt: z.string(),
 		live: z.string(),
 		studenti_u_blokadi: z.string(),
