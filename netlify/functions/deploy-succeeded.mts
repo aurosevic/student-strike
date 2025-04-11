@@ -6,6 +6,7 @@ type Post = {
   pubDate: string;
   title: string;
   body: string;
+  url: string;
 }
 
 export default async (req: Request, context: Context) => {
@@ -44,7 +45,13 @@ export default async (req: Request, context: Context) => {
       await webPush.sendNotification(subscription, JSON.stringify({
         title: latest.title,
         options: {
-          body: latest.body
+          body: latest.body,
+          data: {
+            url: latest.url,
+          },
+          actions: [
+            { action: "open_url", title: "Pročitaj" }
+          ]
         }
       }));   
     } catch (e) {
