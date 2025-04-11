@@ -11,5 +11,6 @@ export const GET: APIRoute = async ({params, site}) => {
     title: post.data.title,
     body: post.body,
     pubDate: post.data.pubDate.toISOString(),
+    url: `/${post.lang}/vesti/${post.id}/`,
   })));
 }
