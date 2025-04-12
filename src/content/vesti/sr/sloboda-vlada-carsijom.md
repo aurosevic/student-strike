@@ -7,7 +7,7 @@ pubDate: 2025-04-11T18:36:00.000Z
 heroImage: '@assets/images/novi-pazar.jpg'
 timeline:
   - naslov: Обавештење о инциденту у Новом Пазару
-    datum: 2025-04-12T00:10:00.000Z
+    datum: 2025-04-12T12:10:00.000Z
     videos: []
     slike:
       - '@assets/images/govor-np.jpeg'
