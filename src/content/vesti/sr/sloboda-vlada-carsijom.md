@@ -7,8 +7,14 @@ pubDate: 2025-04-11T18:36:00.000Z
 heroImage: '@assets/images/novi-pazar.jpg'
 description: Руже су црвене, чаршија се спрема, 12. априла следи реформа система
 timeline:
-  - naslov: Видео доласка бициклиста
-    datum: 2025-04-12T14:51:00.000Z
+  - naslov: Позив Kраљевчана
+    datum: 2025-04-12T16:58:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC_0360.JPG'
+    tekst: Студенти из Краљева развили су транспарент са позивом на протест 16. априла у њиховом граду.
+  - naslov: Видео доласка бициклиста и моториста
+    datum: 2025-04-12T16:51:00.000Z
     videos:
       - HWHww2k5ChA
     slike: []
