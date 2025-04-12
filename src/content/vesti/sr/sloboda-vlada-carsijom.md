@@ -59,6 +59,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/CHE-02830.jpg'
+      - '@assets/images/IMG_0077.JPG'
     tekst: На трг су управо стигли бициклисти из Новог Сада, који су дочекани овацијама и песмом.
   - naslov: Хвала Драгане
     datum: 2025-04-12T16:10:00.000Z
