@@ -24,7 +24,9 @@ export default async (req: Request, context: Context) => {
   );
 
   for (const subscription of subscriptions) {
-    await webPush.sendNotification(subscription, JSON.stringify(body.notification));
+    try {
+      await webPush.sendNotification(subscription, JSON.stringify(body.notification));
+    } catch {}
   }
 
   return new Response("Sent!")
