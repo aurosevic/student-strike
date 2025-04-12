@@ -1,7 +1,7 @@
 ---
 link: sloboda-vlada-carsijom
 title: Слобода влада чаршијом
-live: false
+live: true
 draft: uredjivanje
 pubDate: 2025-04-11T18:36:00.000Z
 heroImage: '@assets/images/novi-pazar.jpg'
