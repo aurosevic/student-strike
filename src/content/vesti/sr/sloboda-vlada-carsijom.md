@@ -7,6 +7,12 @@ pubDate: 2025-04-11T18:36:00.000Z
 heroImage: '@assets/images/novi-pazar.jpg'
 description: Руже су црвене, чаршија се спрема, 12. априла следи реформа система
 timeline:
+  - naslov: И бајкери су дошли
+    datum: 2025-04-12T16:30:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC_0325.JPG'
+    tekst: Колона бајкера прошла је кроз улицу 28. новембра - прегршт овација и звукова сирена мотора.
   - naslov: Дочек бициклиста
     datum: 2025-04-12T16:19:00.000Z
     videos: []
