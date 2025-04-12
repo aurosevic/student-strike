@@ -16,5 +16,8 @@ linkovi:
   - ikonica: hand-coin
     naslov: Blokadne donacije
     link: https://blokadnedonacije.rs
+  - ikonica: youtube
+    naslov: YouTube kanal
+    link: https://www.youtube.com/channel/UCVzOMk75igzA-ZuOvQaI1xg
 ---
 
