@@ -7,6 +7,13 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Блокиран и други улаз
+    datum: 2025-04-14T22:54:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC_0429.JPG'
+      - '@assets/images/DSC_0432.JPG'
+    tekst: Студенти су блокирали  и улаз из Абердареве улице у зграду РТС-а.
   - naslov: Грађани пристижу
     datum: 2025-04-14T22:41:00.000Z
     videos: []
