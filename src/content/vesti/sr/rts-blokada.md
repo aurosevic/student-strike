@@ -7,6 +7,12 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Студенти и грађани заиграли коло
+    datum: 2025-05-14T00:43:00.000Z
+    videos:
+      - sOSd1HUJiMg
+    slike: []
+    tekst: ''
   - naslov: „Радио телевизија студената”
     datum: 2025-04-15T00:06:00.000Z
     videos: []
