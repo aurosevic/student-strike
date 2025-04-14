@@ -12,6 +12,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/DSC_0402.JPG'
+      - '@assets/images/DSC_0399.JPG'
     tekst: ''
 ---
 **Хитно!** Позив на изненадну акцију испред РТС-а!
