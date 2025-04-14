@@ -7,6 +7,13 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Грађани пропуштају хитну помоћ
+    datum: 2025-04-14T23:49:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/IMG_9230.jpg'
+      - '@assets/images/IMG_9234.jpg'
+    tekst: Фоткао [@gagic\_jovan\_01](https://instagram.com/gagic_jovan_01)
   - naslov: Ширење банера
     datum: 2025-04-14T23:23:00.000Z
     videos: []
