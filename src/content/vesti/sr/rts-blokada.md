@@ -7,6 +7,16 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Припадници жандармерије ушли у РТС
+    datum: 2025-04-14T23:12:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC2211.jpg'
+      - '@assets/images/_DSC2350.jpg'
+    tekst: |-
+      Припадници жандармерије ушли у РТС, студенти су их мирно пустили да прођу.
+
+      Форографисала колегиница [@gledammesec](https://instagram.com/gledammesec)
   - naslov: Блокиран и други улаз
     datum: 2025-04-14T22:54:00.000Z
     videos: []
