@@ -23,7 +23,7 @@ export default defineConfig({
     },
     env: {
         schema: {
-            VAPID_PUBLIC_KEY: envField.string({ context: "client", access: "public" }),
+            VAPID_PUBLIC_KEY: envField.string({ context: "client", access: "public", optional: true }),
         }
     },
     vite: {
