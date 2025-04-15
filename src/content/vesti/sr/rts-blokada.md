@@ -7,6 +7,12 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Снимак РТС укључења
+    datum: 2025-05-15T02:38:00.000Z
+    videos:
+      - SEzi7IjdZtQ
+    slike: []
+    tekst: ''
   - naslov: РТС међу студентима
     datum: 2025-05-14T01:41:00.000Z
     videos: []
