@@ -29,19 +29,19 @@ if (typeof lang === "undefined") {
 
 const linkovi = Astro.props;
 
-const live = (await collection("vesti", lang)).find((vest) => vest.data.live);
+const live = (await collection("vesti", lang)).filter((vest) => vest.data.live);
 ---
 
 <Base lang={linkovi.lang} title={SITE_TITLE} description={SITE_DESCRIPTION}>
     <ul>
-        {live && 
+        {live.map(live =>
             <li>
                 <a class="live" href={`/${lang}/vesti/${live.data.link}`}>
                     <Icon size={ICON_SIZE_LG} name={`mdi:newspaper`} />
                     {live.data.title}
                 </a>
             </li>
-        }
+        )}
         {linkovi.data.linkovi.map(link =>
             <li>
                 <a href={link.link}>
