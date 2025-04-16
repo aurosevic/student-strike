@@ -7,6 +7,11 @@ pubDate: 2025-04-16T09:51:00.000Z
 heroImage: '@assets/images/pumpaj-pumpaj-ibar-vodo.jpg'
 description: Данас, 16. априла, у Краљеву се одржава протест у част 16 жртава које су трагично настрадале услед урушавања надстрешнице у Новом Саду.
 timeline:
+  - naslov: Највећа бука у Србији
+    datum: 2025-04-16T21:20:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: 16 минута тишине
     datum: 2025-04-16T21:00:00.000Z
     videos: []
