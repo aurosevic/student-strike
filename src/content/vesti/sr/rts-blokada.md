@@ -7,6 +7,11 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Пумпај, пумпај, Ибар водо
+    datum: 2025-04-16T15:24:00.000Z
+    videos: []
+    slike: []
+    tekst: Данас пратимо и протест у Краљеву, нашу репортажу можете пратити [овде](https://blokade.org/sr/vesti/pumpaj-pumpaj-ibar-vodo/).
   - naslov: Атмосфера у Таковској
     datum: 2025-04-16T14:33:00.000Z
     videos: []
