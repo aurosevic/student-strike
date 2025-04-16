@@ -7,6 +7,15 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Атмосфера у Таковској
+    datum: 2025-04-16T14:33:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/photo_2025-04-16_14-16-43.jpg'
+      - '@assets/images/photo_2025-04-16_14-16-48.jpg'
+      - '@assets/images/photo_2025-04-16_14-20-19.jpg'
+      - '@assets/images/photo_2025-04-16_14-20-18.jpg'
+    tekst: ''
   - naslov: Блокадна кухиња
     datum: 2025-04-16T13:30:00.000Z
     videos: []
