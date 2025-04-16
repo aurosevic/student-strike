@@ -7,6 +7,15 @@ pubDate: 2025-04-16T09:51:00.000Z
 heroImage: '@assets/images/pumpaj-pumpaj-ibar-vodo.jpg'
 description: Данас, 16. априла, у Краљеву се одржава протест у част 16 жртава које су трагично настрадале услед урушавања надстрешнице у Новом Саду.
 timeline:
+  - naslov: Пумпај, пумпај, Ибар водо
+    datum: 2025-04-16T18:56:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/SRK_3526.JPG'
+      - '@assets/images/SRK_3548.JPG'
+      - '@assets/images/SRK_3575.JPG'
+      - '@assets/images/SRK_3592.JPG'
+    tekst: ''
   - naslov: Део ветерана креће ка Београду да помoгне студентима у блокади РТС-a
     datum: 2025-04-16T18:50:00.000Z
     videos: []
@@ -16,7 +25,7 @@ timeline:
     datum: 2025-04-16T17:01:00.000Z
     videos: []
     slike:
-      - '@assets/images/photo_2025-04-16_17-05-54.jpg'
+      - '@assets/images/SRK_3454.JPG'
     tekst: |-
       Дејан Алексић, писац и добитник награде „Милош Црњански“, прочитао је своју верзију песме „Над Краљевом жива ватра сева“:
 
