@@ -11,7 +11,7 @@ timeline:
     datum: 2025-04-16T15:24:00.000Z
     videos: []
     slike: []
-    tekst: Данас пратимо и блокаду РТС-а у Београду, нашу репортажу можете пратити [овде](https://blokade.org/sr/vesti/pumpaj-pumpaj-ibar-vodo/).
+    tekst: Данас пратимо и блокаду РТС-а у Београду, нашу репортажу можете пратити [овде](http://blokade.org/vesti/rts-blokada).
   - naslov: Рецитација
     datum: 2025-04-16T14:54:00.000Z
     videos: []
