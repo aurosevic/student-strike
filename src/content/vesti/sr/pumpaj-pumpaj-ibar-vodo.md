@@ -83,7 +83,7 @@ timeline:
     datum: 2025-04-16T18:50:00.000Z
     videos: []
     slike: []
-    tekst: Више о блокади РТС-а можете видети на [линку](httpс://blokade.org/vesti/rts-blokada).
+    tekst: Више о блокади РТС-а можете видети на [линку](https://blokade.org/vesti/rts-blokada).
   - naslov: Говор књижевника Дејана Алексића
     datum: 2025-04-16T17:01:00.000Z
     videos: []
