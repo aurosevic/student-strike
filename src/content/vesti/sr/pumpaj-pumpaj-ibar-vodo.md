@@ -7,6 +7,15 @@ pubDate: 2025-04-16T09:51:00.000Z
 heroImage: '@assets/images/pumpaj-pumpaj-ibar-vodo.jpg'
 description: Данас, 16. априла, у Краљеву се одржава протест у част 16 жртава које су трагично настрадале услед урушавања надстрешнице у Новом Саду.
 timeline:
+  - naslov: Лепе сличице
+    datum: 2025-04-16T16:28:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/SRK_3411.JPG'
+      - '@assets/images/SRK_3348.JPG'
+      - '@assets/images/SRK_3352.JPG'
+      - '@assets/images/SRK_3359.JPG'
+    tekst: ''
   - naslov: Бициклисти пристижу
     datum: 2025-04-16T16:16:00.000Z
     videos:
