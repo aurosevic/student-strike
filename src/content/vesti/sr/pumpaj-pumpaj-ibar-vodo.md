@@ -7,6 +7,12 @@ pubDate: 2025-04-16T09:51:00.000Z
 heroImage: '@assets/images/pumpaj-pumpaj-ibar-vodo.jpg'
 description: Данас, 16. априла, у Краљеву се одржава протест у част 16 жртава које су трагично трагично настрадали услед урушавања надстрешнице у Новом Саду.
 timeline:
+  - naslov: Хор наставника музичке школе „Стеван Стојановић Мокрањац” у Краљеву
+    datum: 2025-04-16T14:53:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/hor-profesora.jpeg'
+    tekst: ''
   - naslov: Хор „Распевани просветни радници Пожега”
     datum: 2025-04-16T14:44:00.000Z
     videos: []
