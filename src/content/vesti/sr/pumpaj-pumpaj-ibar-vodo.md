@@ -1,12 +1,27 @@
 ---
 link: pumpaj-pumpaj-ibar-vodo
 title: Пумпај, пумпај, Ибар водо
-live: true
+live: false
 draft: uredjivanje
 pubDate: 2025-04-16T09:51:00.000Z
 heroImage: '@assets/images/pumpaj-pumpaj-ibar-vodo.jpg'
 description: Данас, 16. априла, у Краљеву се одржава протест у част 16 жртава које су трагично настрадале услед урушавања надстрешнице у Новом Саду.
 timeline:
+  - naslov: Крај?
+    datum: 2025-04-17T00:00:00.000Z
+    videos:
+      - Yy2xKXVFTjk
+    slike: []
+    tekst: |-
+      После вечерњег сређивања након успешног протеста, скуп у Краљеву је завршен, али у Београду блокаде РТС-а још трају.
+
+      **Видимо се!**
+  - naslov: Снимак дела говора студенткиње
+    datum: 2025-04-16T23:45:00.000Z
+    videos:
+      - AIvetm7_pDE
+    slike: []
+    tekst: ''
   - naslov: Највећа бука у Србији!
     datum: 2025-04-16T21:30:00.000Z
     videos: []
