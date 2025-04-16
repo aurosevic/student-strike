@@ -7,6 +7,13 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Јутрић спортић
+    datum: 2025-04-16T05:26:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/photo_2025-04-16_05-24-37.jpg'
+      - '@assets/images/photo_2025-04-16_05-24-38.jpg'
+    tekst: Студенти се загревају играјући одбојку.
   - naslov: Чувајте нам леђа
     datum: 2025-04-16T04:07:00.000Z
     videos: []
