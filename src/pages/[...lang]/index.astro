@@ -22,7 +22,7 @@ const { Content: Pocetna, frontmatter: pocetna } = await file("pocetna", lang);
 const { Content: Zahtevi } = await file("zahtevi", lang);
 const { frontmatter } = await file("ostalo", lang);
 const { frontmatter : frontmatter_faq } = await file("faq", lang);
-const live = (await collection("vesti", lang)).find((vest) => vest.data.live);
+const live = (await collection("vesti", lang)).filter((vest) => vest.data.live);
 
 const vesti = await collection("vesti", lang);
 const akcije = await collection("akcije", lang);
@@ -48,9 +48,11 @@ const akcije = await collection("akcije", lang);
       sizes={`(max-width: 360px) 240px, (max-width: 720px) 540px, (max-width: 1600px) 720px, ${slavija.width}px`}
     />
 
-    {typeof live !== "undefined" &&
-      <Live href={`/${lang}/vesti/${live.id}`}>{live.data.title}</Live>
-    }
+    <div class="live-box">
+      {live.map(live =>
+        <Live href={`/${lang}/vesti/${live.id}`}>{live.data.title}</Live>
+      )}
+    </div>
 
     <h1>{frontmatter.naslov}</h1>
   </div>
@@ -115,7 +117,7 @@ const akcije = await collection("akcije", lang);
     position: relative;
     background-size: cover;
     background-position: center;
-    height: 20rem;
+    height: 22rem;
 
     display: flex;
     align-items: center;
@@ -190,10 +192,13 @@ const akcije = await collection("akcije", lang);
     }
   }
 
-  .title .live {
+  .title .live-box {
     position: absolute;
-    top: 2rem;
-    left: 2rem;
+    top: 1rem;
+    left: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
   }
 
   .gap {

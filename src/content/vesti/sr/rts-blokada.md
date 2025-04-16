@@ -7,7 +7,7 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
-  - naslov: Грађани не одустају од блокааде РТС-а
+  - naslov: Грађани не одустају од блокаде РТС-а
     datum: 2025-04-16T01:57:00.000Z
     videos: []
     slike:
