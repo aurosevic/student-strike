@@ -21,10 +21,10 @@ jobs:
       - name: "Cache images"
         id: cache-images
         uses: actions/cache@v4
-        key: ${{ runner.os }}-images
         with:
           path: |
             ~/.astro
+          key: ${{ runner.os }}-images
       - name: Checkout your repository using git
         uses: actions/checkout@v4
       - name: Install, build, and upload your site
