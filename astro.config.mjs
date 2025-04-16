@@ -7,6 +7,7 @@ import icon from "astro-icon";
 export default defineConfig({
     site: 'https://blokade.org',
     integrations: [sitemap(), icon()],
+    cacheDir: "cache",
     redirects: {
         '/sub': '/sr-lat/linkovi/studenti_u_blokadi',
     },
