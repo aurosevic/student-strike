@@ -7,6 +7,13 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Ди-џеј наступ
+    datum: 2025-04-17T21:40:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC_0786.JPG'
+      - '@assets/images/DSC_0790.JPG'
+    tekst: Препуни енергије, студенти и грађани уживају у приређеном перформансу. Гушимо лажи које нам се пласирају гласном музиком и добром забавом!
   - naslov: Спремни за наступ
     datum: 2025-04-17T19:57:00.000Z
     videos: []
