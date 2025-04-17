@@ -7,6 +7,27 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Шта сте пропустили јутрос
+    datum: 2025-04-17T13:32:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/lovac i kosuta 17.04.2025. FOTO Aleksa Stankovic-5.jpg'
+      - '@assets/images/lovac i kosuta 17.04.2025. FOTO Aleksa Stankovic-9.jpg'
+      - '@assets/images/lovac i kosuta 17.04.2025. FOTO Aleksa Stankovic-14.jpg'
+      - '@assets/images/lovac i kosuta 17.04.2025. FOTO Aleksa Stankovic-2.jpg'
+      - '@assets/images/lovac i kosuta 17.04.2025. FOTO Aleksa Stankovic-16.jpg'
+      - '@assets/images/lovac i kosuta 17.04.2025. FOTO Aleksa Stankovic-19.jpg'
+    tekst: Фотографисао [@a.stankovic\_ph](https://www.instagram.com/a.stankovic_ph/)
+  - naslov: Журка још траје
+    datum: 2025-04-17T13:25:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/photo_2025-04-17_13-01-40.jpg'
+      - '@assets/images/photo_2025-04-17_13-01-41.jpg'
+    tekst: |-
+      Јутро дошло и прошло, а једини програм РТС-а је био дневник (ако га тако уопште можемо звати). Журка траје већ 3 дана и трајаће и дуже.
+
+      **Видимо се!**
   - naslov: И после поноћи, енергија је на нивоу!
     datum: 2025-04-17T00:23:00.000Z
     videos:
