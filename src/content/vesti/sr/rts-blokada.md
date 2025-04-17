@@ -7,6 +7,16 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Програмска шема Таковска
+    datum: 2025-04-17T19:46:00.000Z
+    videos: []
+    slike: []
+    tekst: |-
+      Четвртак, 17. април 2025.
+
+      - 20.30 - **DJ LEA**
+      - 22.00 - **DJ DIVOLLY & MARKWARD**
+      - Крај? **- Кад се распише конкурс за РЕМ**
   - naslov: Неколико успомена
     datum: 2025-04-17T18:22:00.000Z
     videos: []
