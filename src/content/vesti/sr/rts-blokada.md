@@ -7,6 +7,13 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Спремни за наступ
+    datum: 2025-04-17T19:57:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC_0706.JPG'
+      - '@assets/images/DSC_0708.JPG'
+    tekst: Опрема спремна за наступе ди-џејева, **видимо се!**
   - naslov: Програмска шема Таковска
     datum: 2025-04-17T19:46:00.000Z
     videos: []
