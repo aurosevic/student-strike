@@ -7,6 +7,15 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Неколико успомена
+    datum: 2025-04-17T18:22:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC_0586.JPG'
+      - '@assets/images/DSC_0589.JPG'
+      - '@assets/images/DSC_0583.JPG'
+      - '@assets/images/DSC_0597.JPG'
+    tekst: ''
   - naslov: Празнична атмосфера
     datum: 2025-04-17T15:07:00.000Z
     videos: []
