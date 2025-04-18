@@ -7,6 +7,20 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Празнична ретроспектива - Кошутњак
+    datum: 2025-04-18T18:40:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC_0997.JPG'
+      - '@assets/images/DSC_0988.JPG'
+      - '@assets/images/DSC_0989.JPG'
+      - '@assets/images/DSC_0992.JPG'
+      - '@assets/images/DSC_0965.JPG'
+      - '@assets/images/DSC_0947.JPG'
+    tekst: |-
+      И на Кошутњаку прелепа атмосфера. Лепо време позива на дружење у природи, физичку активност и дружење са породицом и крзнаним пријатељима. 
+
+      **Придружите нам се!**
   - naslov: Празнична ретроспектива - Таковска
     datum: 2025-04-18T18:32:00.000Z
     videos: []
