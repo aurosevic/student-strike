@@ -9,7 +9,7 @@ locale: sr
 backend:
   name: github
   repo: blokada-rs/sajt
-  branch: to-publish
+  branch: main
   base_url: https://sveltia-cms-auth.velikihumus.workers.dev/
 
 output:
