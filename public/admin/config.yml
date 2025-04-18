@@ -10,6 +10,7 @@ backend:
   name: github
   repo: blokada-rs/sajt
   branch: to-publish
+  base_url: https://sveltia-cms-auth.velikihumus.workers.dev/
 
 output:
   omit_empty_optional_fields: true
