@@ -21,7 +21,9 @@ jobs:
         with:
           path: |
             cache
-          key: ${{ runner.os }}-images
+          key: images-${{ runner.os }}-${{ github.run_id }}
+          restore-keys:
+            images-${{ runner.os }}
 
       - name: Install, build, and upload your site
         uses: withastro/action@v3
