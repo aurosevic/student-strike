@@ -7,6 +7,13 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Студенти дочекали Ускрс уз коло
+    datum: 2025-04-20T00:42:00.000Z
+    videos:
+      - EQUMftTeV5A
+      - -KcVpNTI8EY
+    slike: []
+    tekst: ''
   - naslov: Пролећне активности
     datum: 2025-04-19T20:04:00.000Z
     videos: []
