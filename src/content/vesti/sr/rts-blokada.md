@@ -7,6 +7,12 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Наши бициклисти у Утиску недеље
+    datum: 2025-04-20T20:30:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/photo_2025-04-20_20-39-10.jpg'
+    tekst: ''
   - naslov: Програмска шема - Таковска
     datum: 2025-04-20T09:51:00.000Z
     videos: []
@@ -18,7 +24,7 @@ timeline:
       - 21.00 - **DJ IKE x DJ BEGE FANK x FUNKCIONER**
       - 00.00 - **DJ ČUČULJ & DJ PRETZEL**
       - Крај? **- Кад се распише конкурс за РЕМ**
-  - naslov: Програмдка шема - Кошутњак
+  - naslov: Програмска шема - Кошутњак
     datum: 2025-04-20T10:51:00.000Z
     videos: []
     slike: []
