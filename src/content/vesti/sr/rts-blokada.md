@@ -7,6 +7,20 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Програмска шема - Таковска
+    datum: 2025-04-21T14:04:00.000Z
+    videos: []
+    slike: []
+    tekst: |-
+      Понедељак, 21. април 2025.
+
+      - 18.00
+          - **Cite whity soul**
+          - **Šuton & L'ćepa**
+          - **Krgej Srstić**
+          - **Ojron**
+      - 21.00-00.00 - DJ Lhule
+      - Крај? **- Кад се распише конкурс за РЕМ**
   - naslov: Радионице за најмлађе
     datum: 2025-04-21T11:00:00.000Z
     videos: []
