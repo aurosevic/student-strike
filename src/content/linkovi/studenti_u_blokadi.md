@@ -19,5 +19,8 @@ linkovi:
   - ikonica: youtube
     naslov: YouTube kanal
     link: https://www.youtube.com/channel/UCVzOMk75igzA-ZuOvQaI1xg
+  - ikonica: hand-coin
+    naslov: IT mreža solidarnosti
+    link: https://www.mrezasolidarnosti.org/
 ---
 
