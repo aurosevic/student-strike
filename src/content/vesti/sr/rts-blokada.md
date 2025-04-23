@@ -7,6 +7,14 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Одавање поште страдалима у бомбардовању зграде РТС-а.
+    datum: 2025-04-23T02:44:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/5785109116086241268.jpg'
+      - '@assets/images/5785109116086241269.jpg'
+      - '@assets/images/5785109116086241266.jpg'
+    tekst: ''
   - naslov: Програмска шема - Таковска
     datum: 2025-04-21T14:04:00.000Z
     videos: []
