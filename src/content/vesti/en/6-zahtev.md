@@ -1,0 +1,51 @@
+---
+link: 6-zahtev
+title: Sixth demand of students in blockade
+live: false
+draft: uredjivanje
+pubDate: 2025-04-07T18:00:00.000Z
+heroImage: '@assets/images/6-zahtev.jpg'
+---
+Some of the patients who were heavily injured in a terrible fire in the town of Kočani inNorth Macedonia were transported to Belgrade for treatment and were situated at the intensive care unit of the Emergency Centre of the University Clinical Centre of Serbia (UCCS).
+
+On 17 March 2025, a large number of individuals entered the intensive care unit, including the President of the Republic of Serbia, the Minister of Health who had resigned and a journalist team. These individuals violated several hygiene measures which serve to protect patients from risk factors which may lead to serious endangerment of their health and life. The oversights, among other things, include: not using the adequate footwear and clothing, not using the adequate sterile equipment for audiovisual equipment, improper wearing of medical gowns, removal of medical face masks while giving statements to the media, touching patients without using sterile gloves.
+
+At the intensive care unit were patients whose state of immunodeficiency, caused by thermal skin damage, places them in extreme risk of infections which would eventually endanger their health and life, of which preventable hospital infections are the most dangerous and ethically and morally unacceptable. Through these oversights the rules of the medicinal profession and ethical code were flagrantly broken. Photographs and video recordings showing the heavily injured patients were published in native media. We stress that these patients are foreign citizens, among whom many are underage individuals. Some of the recordings prove the access of an unauthorised individual to a patient’s temperature chart, which is a confidential medical document. Through the President of Serbia’s press statement, the public gained insight into confidential medical information which were put forward in the following way:
+
+“I had the opportunity to visit the people injured in the terrible tragedy in Kočani in North Macedonia. Nine of them are here at the Clinical Centre. I previously visited two of them, then together we visited seven of them. The last person we visited was in life-threatening condition, the rest are not, although that should not be said. The burn degree is from four percent to, to not scare the families, much higher levels.“
+
+We emphasize two professional, legal and ethical oversights made on this occasion. The first oversight concerns the entry of the President of the Republic and numerous members of journalist teams into the intensive care unit of one of the most prestigious health institutions in Serbia, without adequate protection, endangering the health of patients with burns which are susceptible to infection. One of the photographs even depicts the President touching such a patient without sterile gloves.
+
+We remind that on 13 January 2025, with the aim of prevention and control of the spread of respiratory infections, the Central Commission for Hospital Infections of the UCCS implemented visiting restrictions for all hospitalised patients at all UCCS clinics.
+
+We also remind that as prescribed in Article 9 of the Law on Patient’s Rights, the patient has the right to timely and quality health service in accordance with their health condition and established professional standards. The right to the quality of health service includes the corresponding level of health service and humane treatment of the patient. The patient’s right to safety in ensuring health protection is guaranteed by Article 10 of the Law on Patient’s Rights, and as such the health institution is obligated to ensure safety while providing healthcare, and to continually track risk factors and take steps to reduce them.
+
+A health institution and the responsible individuals within that institution which allow a large number of unauthorised and inadequately trained individuals to enter the intensive care unit and record, photograph and even touch patients in critical condition, break elementary rules of their profession and the protocols regarding handling immunocompromised patients.
+
+The second oversight concerns public revealing of information regarding the health status of patients.
+
+We remind that Serbia has signed and ratified the Convention on Human Rights and Biomedicine, which states that everyone has the right to respect of privacy regarding information on their health (Article 10 of the Convention). The European Court of Human Rights particularly insists in its practice on the protection of the right to respect of privacy in the context of protecting health information. It is the duty of the state not only to ensure conditions for enjoyment of the rights to dignity and privacy, but to actively ensure those rights are NOT being violated.
+
+We remind that Article 21 of the Law on Patient’s Rights prescribes that information on health status is particularly sensitive information regarding the patient’s identity. All healthcare workers and co-workers are obligated to safekeep this information, as well as all other persons employed in healthcare institutions and health insurance organisations, who have access to that information solely for the sake of practising their profession regulated by law. Anyone who, without authorisation or consent of a patient or legal representative, reveals information about another’s health status in public, is responsible for revealing particularly sensitive information. The aforementioned individuals can only be released from their obligation to safekeep the patient’s health information by written acceptance from the patient or their legal representative, or based on a court decision (Article 22 of the Law on Patient’s Rights). A violation of the obligation to safekeep particularly sensitive information regarding the patient’s identity is sanctioned as a misdemeanour.
+
+We also remind that the Medical Code of Ethics of the Doctor’s Chamber of Serbia prescribes that professional secrecy includes all of the doctor’s knowledge of the patient and their personal, family and social environment, as well as all information related to determining, treating and tracking the disease that the doctor has obtained during practise of their profession. A secret is disclosed only to the necessary measure and only to the individual responsible who requires that information to prevent consequences. On top of that, when it is allowed, information regarding the patient may be disclosed only in a manner which maintains the anonimity of the patient. In such an instance, respect of the patient’s personal dignity must be maintained. We believe that it is the responsibility of the Doctor’s Chamber of Serbia to respond without delay to the unscrupulous violation of all professional and ethical principles of the doctor’s profession.
+
+Having in mind everything said, WE DEMAND the initiation of a procedure to determine responsibility and the dismissal of UCCS director Prof. Dr Jelena Drulović, UCCS Emergency Centre director Asst. Prof. Dr Marko Ercegovac, head of the intensive care unit of the UCCS Emergency Centre Asst. Prof. Dr Dušan Micić, for allowing or not preventing the following:
+
+- unauthorised entry of individuals into the UCCS Emergency Centre intensive care unit, without adequate safety equipment, which created greater danger to the health and life of immunocompromised patients;
+- unauthorised entry of journalist teams into the UCCS Emergency Centre intensive care unit and photographing and recording the patients situated there, which violated their personal dignity and created greater danger to the health and life of immunocompromised patients;
+- disclosing of confidential medical information regarding the status of patients situated at the UCCS Emergency Centre intensive care unit to unauthorised individuals, which the President of the Republic of Serbia put forward into the public, thereby violating the dignity of the patients, peaceful family life and and the right to privacy of those patients.
+
+**WE DEMAND**the initiation of misdemeanour procedures against the healthcare institution, the responsible individuals within the healthcare institution and the healthcare workers who violated the obligation to safekeep particularly sensitive information regarding the patient’s identity, contrary to provisions of Article 21 and 22 of the Law on Patient’s Rights.
+
+**WE DEMAND:** that exceptional outside quality control be conducted on the professional work of the UCCS Emergency Centre in accordance with Article 191 of the Health Care Law (333) and for the conclusion and recommendations of the conducted supervision to be made available to the public, while keeping in line with protection of identity information.
+
+**WE DEMAND:** an exceptional inspection of work of the UCCS Emergency Centre and for the report on established violations and recommendations to be made available to the public in accordance with Article 246 333 and the Law on Inspection Supervision, while keeping in line with protection of identity information.
+
+**WE DEMAND:** that inspection of enforcement of the Law on Personal Data Protection at the UCCS Emergency Centre be carried out, i.e. that inspection be carried out in accordance with its authority as defined in Articles 78 and 79 of the Law on Personal Data Protection.
+
+**WE DEMAND:** for the UCCS Emergency Centre director and the head of the UCCS Emergency Centre intensive care unit to inform us without delay on the conduct protocols in the intensive care unit.
+
+**WE DEMAND:** that the President of the UCCS Ethical Committee convene a public meeting without delay and to deliver to the Faculty of Medicine in blockade and the public a written finding and opinion on whether a violation of the Ethics and Business Code occurred on 17 March 2025 by allowing unauthorised persons into the UCCS Emergency Centre intensive care unit.
+
+**WE DEMAND:** that the Ombudsman, in accordance with Article 27 of the Law on the Ombudsman, conduct a work control procedure of the USSC Emergency Centre relating to violations of rights in the field of healthcare and the endangerment of health and life of patients on 17March 2025.
