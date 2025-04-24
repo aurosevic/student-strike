@@ -4,23 +4,23 @@ linkovi:
   - ikonica: web
     naslov: Zvanični sajt studenata u blokadi
     link: https://blokade.org
+  - ikonica: hand-coin
+    naslov: IT mreža solidarnosti
+    link: https://www.mrezasolidarnosti.org/
   - ikonica: instagram
-    naslov: '@studenti_u_blokadi'
+    naslov: Instagram nalog
     link: https://instagram.com/studenti_u_blokadi
   - ikonica: twitter
-    naslov: '@studentblokade'
+    naslov: Twitter nalog
     link: https://x.com/studentblokade
   - ikonica: facebook
-    naslov: Studenti u blokadi UB
+    naslov: Facebook nalog
     link: https://www.facebook.com/people/Studenti-u-blokadi-UB/61571631694236/
-  - ikonica: hand-coin
-    naslov: Blokadne donacije
-    link: https://blokadnedonacije.rs
   - ikonica: youtube
     naslov: YouTube kanal
     link: https://www.youtube.com/channel/UCVzOMk75igzA-ZuOvQaI1xg
   - ikonica: hand-coin
-    naslov: IT mreža solidarnosti
-    link: https://www.mrezasolidarnosti.org/
+    naslov: Blokadne donacije
+    link: https://blokadnedonacije.rs
 ---
 
