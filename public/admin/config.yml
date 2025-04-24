@@ -40,6 +40,9 @@ collections:
           - { label: "Akcije", name: "akcije", widget: "string", i18n: true }
           - { label: "Akcije tekst", name: "akcije_tekst", widget: "text", i18n: true }
           - { label: "Akcije dugme", name: "akcije_dugme", widget: "string", i18n: true }
+          - { label: "Mreža solidarnosti", name: "mreza_solidarnosti", widget: "string", i18n: true }
+          - { label: "Mreža solidarnosti tekst", name: "mreza_solidarnosti_tekst", widget: "markdown", i18n: true }
+          - { label: "Mreža solidarnosti dugme", name: "mreza_solidarnosti_dugme", widget: "string", i18n: true }
           - { label: "Konkretizacije zahteva", name: "konkretizacije_zahteva", widget: "string", i18n: true }
 
       - label: "O Blokadama"

@@ -138,7 +138,11 @@ strong {
     background-color: var(--accent-dark);
 }
 
-:where(p:not(:last-child)) {
+:where(p):not(:last-child) {
+    margin-bottom: 1em;
+}
+
+:where(ol, ul):not(:last-child) {
     margin-bottom: 1em;
 }
 

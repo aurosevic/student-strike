@@ -1,7 +1,8 @@
 ---
 import Base from "@layouts/Base.astro";
 import { collection, file, langs } from "@scripts/i18n";
-import { getImage, Picture } from "astro:assets";
+import { Picture } from "astro:assets";
+import { Markdown } from "@astropub/md";
 
 import { SITE_DESCRIPTION } from "../../consts";
 import slavija from "@assets/images/slavija-test.jpg";
@@ -61,35 +62,45 @@ const akcije = await collection("akcije", lang);
     <Pocetna />
   </section>
 
-  <section class="gap">
-    <h2>{pocetna.vesti}</h2>
-    {pocetna.vesti_tekst && <p class="section-subtitle">{pocetna.vesti_tekst}</p>}
-    <Slider>
-      {vesti.slice(0, 3).map(post =>
-        <Card link={`/${lang}/vesti/${post.id}`} {...post} />)
-      }
-      <a slot="button" href=`/${lang}/vesti` class="button primary dugme">{pocetna.vesti_dugme}</a>
-    </Slider>
-  </section>
-
   <div class="dark-background full-width">
+    <section class="gap">
+      <h2>{pocetna.vesti}</h2>
+      {pocetna.vesti_tekst && <p class="section-subtitle">{pocetna.vesti_tekst}</p>}
+      <Slider>
+        {vesti.slice(0, 3).map(post =>
+          <Card link={`/${lang}/vesti/${post.id}`} {...post} />)
+        }
+        <a slot="button" href=`/${lang}/vesti` class="button primary dugme">{pocetna.vesti_dugme}</a>
+      </Slider>
+    </section>
+  </div>
+
     <section>
       <Zahtevi />
       <div class="buttons">
         <a slot="button" href=`/${lang}/zahtevi` class="button primary dugme center">{pocetna.konkretizacije_zahteva}</a>
       </div>
     </section>
+
+  <div class="dark-background full-width">
+    <section class="gap">
+      <h2>{pocetna.akcije}</h2>
+      {pocetna.akcije_tekst && <p class="section-subtitle">{pocetna.akcije_tekst}</p>}
+      <Slider>
+        {akcije.slice(0, 3).map(post =>
+          <Card link={`/${lang}/akcije/${post.id}`} {...post} />)
+        }
+        <a slot="button" href=`/${lang}/akcije` class="button primary dugme">{pocetna.akcije_dugme}</a>
+      </Slider>
+    </section>
   </div>
 
-  <section class="gap">
-    <h2>{pocetna.akcije}</h2>
-    {pocetna.akcije_tekst && <p class="section-subtitle">{pocetna.akcije_tekst}</p>}
-    <Slider>
-      {akcije.slice(0, 3).map(post =>
-        <Card link={`/${lang}/akcije/${post.id}`} {...post} />)
-      }
-      <a slot="button" href=`/${lang}/akcije` class="button primary dugme">{pocetna.akcije_dugme}</a>
-    </Slider>
+  <section>
+    <h2>{pocetna.mreza_solidarnosti}</h2>
+    {pocetna.mreza_solidarnosti_tekst && <Markdown of={pocetna.mreza_solidarnosti_tekst} />}
+    <div class="buttons">
+      <a slot="button" href=`https://mrezasolidarnosti.rs` class="button primary dugme center">{pocetna.mreza_solidarnosti_dugme}</a>
+    </div>
   </section>
 
 <!-- 

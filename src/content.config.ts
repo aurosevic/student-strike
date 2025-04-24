@@ -55,6 +55,9 @@ const pocetna = defineCollection({
 		akcije: z.string(),
 		akcije_tekst: z.string(),
 		akcije_dugme: z.string(),
+		mreza_solidarnosti: z.string(),
+		mreza_solidarnosti_tekst: z.string(),
+		mreza_solidarnosti_dugme: z.string(),
 		konkretizacije_zahteva: z.string(),
 	}),
 });
