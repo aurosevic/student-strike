@@ -7,6 +7,13 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Хуманитарни базар за Василија
+    datum: 2025-04-26T16:37:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/photo_2025-04-26_16-25-08.jpg'
+      - '@assets/images/photo_2025-04-26_16-25-07.jpg'
+    tekst: ''
   - naslov: Програмска шема - Таковска
     datum: 2025-04-26T12:17:00.000Z
     videos: []
