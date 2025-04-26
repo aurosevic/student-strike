@@ -9,7 +9,7 @@ export default defineConfig({
     integrations: [sitemap(), icon()],
     cacheDir: "cache",
     redirects: {
-        '/sub': '/sr-lat/linkovi/studenti_u_blokadi',
+        '/sub': '/linkovi/studenti_u_blokadi',
     },
     i18n: {
         locales: ["sr", "sr-lat", "en"],
