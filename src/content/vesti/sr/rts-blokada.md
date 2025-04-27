@@ -7,6 +7,16 @@ pubDate: 2025-04-14T20:29:00.000Z
 heroImage: '@assets/images/rts-1.png'
 description: Хитно! Позив на изненадну акцију испред РТС-а!
 timeline:
+  - naslov: Студенти перу Ваш аутомобил!
+    datum: 2025-04-27T22:50:00.000Z
+    videos: []
+    slike: []
+    tekst: |-
+      Кошутњак, 27. април, од 12.30 часова до краја дана.
+
+      Све што би требало да урадите јесте да платите жетон, а остало препустите нама!
+
+      [Оставите таблице Вашег возила](https://docs.google.com/forms/d/e/1FAIpQLSd4MR1B4naK1KfDnFC1Jdorkzkk299narPpOJ-8ds80xvZLRw/viewform)
   - naslov: „Утисак недеље” на Кошутњаку
     datum: 2025-04-27T20:55:00.000Z
     videos: []
