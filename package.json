@@ -6,6 +6,7 @@
     "dev": "./latinica.sh && astro dev",
     "build": "./latinica.sh && astro build",
     "preview": "astro preview",
+    "compress": "parallel 'echo {} && mogrify -resize 1920x1080 -quality 90 {}' ::: src/assets/images/*",
     "netlify": "netlify",
     "astro": "astro"
   },
