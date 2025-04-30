@@ -1,5 +1,5 @@
 ---
-naslov: Demands
+naslov: Student demands
 zahtevi:
   - original: The publication of the entire documentation related to the reconstruction of the Railway Station in Novi Sad, which is currently unavailable to the public.
     konkretizacija: |-
