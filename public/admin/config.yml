@@ -23,8 +23,95 @@ i18n:
   save_all_locales: false
 
 collections:
+  - name: "vesti"
+    label: "Vesti"
+    icon: newspaper
+    folder: "src/content/vesti"
+    create: true
+    i18n: true
+    slug: '{{fields.link}}'
+
+    sortable_fields:
+      fields: [pubDate]
+      default:
+        field: pubDate
+        direction: descending
+    fields:
+      - { label: "Link", name: "link", widget: "string", i18n: "duplicate" }
+      - { label: "Naslov", name: "title", widget: "string", i18n: true }
+      - { label: "Lajv", name: "live", widget: "boolean", i18n: "duplicate", default: false }
+      - label: "Status"
+        name: "draft"
+        widget: "select"
+        options:
+          - { label: "Uređivanje", value: "uredjivanje" }
+          - { label: "Lekturisanje", value: "lekturisanje" }
+          - { label: "Prevođenje", value: "prevodjenje" }
+          - { label: "Spremno", value: "spremno" }
+        default: "uredjivanje"
+      - { label: "Datum objavljivanja", name: "pubDate", widget: "datetime", picker_utc: true, i18n: "duplicate" }
+      - { label: "Datum izmene", name: "updatedDate", widget: "datetime", picker_utc: true, i18n: "duplicate", required: false }
+      - { label: "Glavna slika", name: "heroImage", widget: "image", i18n: "duplicate" }
+      - { label: "Opis", name: "description", widget: "text", i18n: true, required: false }
+      - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
+      - label: Tajmlajn
+        name: timeline
+        widget: list
+        add_to_top: true
+        required: false
+        i18n: false
+        fields:
+          - { label: "Naslov", name: "naslov", widget: "string" }
+          - { label: "Datum", name: "datum", widget: "datetime", picker_utc: true }
+          - label: "Video IDs"
+            name: "videos"
+            widget: "list"
+            field: { label: "ID", name: "id", widget: "string" }
+            required: false
+          - label: "Slike"
+            name: "slike"
+            widget: "list"
+            field: { label: "Slike", name: "slike", widget: "image" }
+            required: false
+          - { label: "Tekst", name: "tekst", widget: "markdown", required: false }
+
+  - name: "akcije"
+    label: "Akcije"
+    icon: timeline
+    folder: "src/content/akcije"
+    create: true
+    i18n: true
+    slug: '{{fields.link}}'
+
+    sortable_fields:
+      fields: [pubDate]
+      default:
+        field: pubDate
+        direction: descending
+    fields:
+      - { label: "Link", name: "link", widget: "string", i18n: "duplicate" }
+      - { label: "Naslov", name: "title", widget: "string", i18n: true }
+      - label: "Status"
+        name: "draft"
+        widget: "select"
+        options:
+          - { label: "Uređivanje", value: "uredjivanje" }
+          - { label: "Lekturisanje", value: "lekturisanje" }
+          - { label: "Prevođenje", value: "prevodjenje" }
+          - { label: "Spremno", value: "spremno" }
+        default: "Uređivanje"
+      - { label: "Datum akcije", name: "pubDate", widget: "datetime", picker_utc: true, i18n: "duplicate" }
+      - { label: "Glavna slika", name: "heroImage", widget: "image", i18n: "duplicate" }
+      - { label: "Opis", name: "description", widget: "text", i18n: true, required: false }
+      - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
+
+  - divider: true
+    name: d1
+    files: []
+
   - name: "stranice"
     label: "Stranice"
+    icon: description
     i18n: true
     files:
       - label: "Početna"
@@ -52,7 +139,7 @@ collections:
         i18n: true
         fields:
           - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
-      
+
       - label: "Zahtevi"
         name: "zahtevi"
         file: "src/content/stranice/{{locale}}/zahtevi.md"
@@ -124,15 +211,10 @@ collections:
 
   - name: "linkovi"
     label: "Linkovi"
+    icon: link
     folder: "src/content/linkovi"
     create: true
     identifier_field: link
-
-    sortable_fields:
-      fields: [pubDate]
-      default:
-        field: pubDate
-        direction: descending
     fields:
       - label: "link"
         name: "link"
@@ -163,83 +245,46 @@ collections:
           - { label: "Naslov", name: "naslov", widget: "string", i18n: true }
           - { label: "Link", name: "link", widget: "string", i18n: true }
 
-  - name: "vesti"
-    label: "Vesti"
-    folder: "src/content/vesti"
+  - name: "fakulteti"
+    label: "Fakulteti"
+    icon: school
+    folder: "src/content/fakulteti"
     create: true
-    i18n: true
-    slug: '{{fields.link}}'
-
-    sortable_fields:
-      fields: [pubDate]
-      default:
-        field: pubDate
-        direction: descending
+    identifier_field: naziv
     fields:
-      - { label: "Link", name: "link", widget: "string", i18n: "duplicate" }
-      - { label: "Naslov", name: "title", widget: "string", i18n: true }
-      - { label: "Lajv", name: "live", widget: "boolean", i18n: "duplicate", default: false }
-      - label: "Status"
-        name: "draft"
+      - { label: "Naziv", name: "naziv", widget: "string", i18n: true }
+      - { label: "Naziv na engleskom", name: "naziv_eng", widget: "string", i18n: true }
+      - label: "Univerzitet"
+        name: "univerzitet"
         widget: "select"
         options:
-          - { label: "Uređivanje", value: "uredjivanje" }
-          - { label: "Lekturisanje", value: "lekturisanje" }
-          - { label: "Prevođenje", value: "prevodjenje" }
-          - { label: "Spremno", value: "spremno" }
-        default: "uredjivanje"
-      - { label: "Datum objavljivanja", name: "pubDate", widget: "datetime", picker_utc: true, i18n: "duplicate" }
-      - { label: "Datum izmene", name: "updatedDate", widget: "datetime", picker_utc: true, i18n: "duplicate", required: false }
-      - { label: "Glavna slika", name: "heroImage", widget: "image", i18n: "duplicate" }
-      - { label: "Opis", name: "description", widget: "text", i18n: true, required: false }
-      - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
-      - label: Tajmlajn
-        name: timeline
-        widget: list
-        add_to_top: true
-        required: false
-        i18n: false
+          - { label: "UB", value: "ub" }
+          - { label: "UU", value: "uu" }
+          - { label: "Privatni", value: "privatni" }
+        i18n: true
+
+      - label: "Linkovi"
+        label_singular: 'Link'
+        name: "linkovi"
+        widget: "list"
+        summary: "{{naslov}}"
         fields:
-          - { label: "Naslov", name: "naslov", widget: "string" }
-          - { label: "Datum", name: "datum", widget: "datetime", picker_utc: true }
-          - label: "Video IDs"
-            name: "videos"
-            widget: "list"
-            field: { label: "ID", name: "id", widget: "string" }
-            required: false
-          - label: "Slike"
-            name: "slike"
-            widget: "list"
-            field: { label: "Slike", name: "slike", widget: "image" }
-            required: false
-          - { label: "Tekst", name: "tekst", widget: "markdown", required: false }
+          - label: "Ikonica"
+            name: "ikonica"
+            widget: "select"
+            options:
+              - { label: "Bez", value: "bez" }
+              - { label: "Sajt", value: "web" }
+              - { label: "Instagram", value: "instagram" }
+              - { label: "Twitter", value: "twitter" }
+              - { label: "Facebook", value: "facebook" }
+              - { label: "YouTube", value: "youtube" }
+              - { label: "Viber", value: "viber" }
+              - { label: "Vesti", value: "newspaper" }
+              - { label: "Mejl", value: "at" }
+              - { label: "Donacije", value: "hand-coin" }
+            default: "Bez"
 
+          - { label: "Naslov", name: "naslov", widget: "string", i18n: true }
+          - { label: "Link", name: "link", widget: "string", i18n: true }
 
-  - name: "akcije"
-    label: "Akcije"
-    folder: "src/content/akcije"
-    create: true
-    i18n: true
-    slug: '{{fields.link}}'
-
-    sortable_fields:
-      fields: [pubDate]
-      default:
-        field: pubDate
-        direction: descending
-    fields:
-      - { label: "Link", name: "link", widget: "string", i18n: "duplicate" }
-      - { label: "Naslov", name: "title", widget: "string", i18n: true }
-      - label: "Status"
-        name: "draft"
-        widget: "select"
-        options:
-          - { label: "Uređivanje", value: "uredjivanje" }
-          - { label: "Lekturisanje", value: "lekturisanje" }
-          - { label: "Prevođenje", value: "prevodjenje" }
-          - { label: "Spremno", value: "spremno" }
-        default: "Uređivanje"
-      - { label: "Datum akcije", name: "pubDate", widget: "datetime", picker_utc: true, i18n: "duplicate" }
-      - { label: "Glavna slika", name: "heroImage", widget: "image", i18n: "duplicate" }
-      - { label: "Opis", name: "description", widget: "text", i18n: true, required: false }
-      - { label: "Tekst", name: "body", widget: "markdown", i18n: true }

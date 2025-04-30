@@ -23,9 +23,11 @@ const { frontmatter } = await file("zahtevi", lang);
 
     <div class="zahtevi">
       {frontmatter.zahtevi.map(
-        (zahtev: {original: string, konkretizacija: string}) => 
+        (zahtev: {original: string, konkretizacija: string}, idx: number) =>
           <details>
-            <summary>{zahtev.original}</summary>
+            <summary>
+                <strong>{idx + 1}.</strong> {zahtev.original}
+            </summary>
             <div class="content">
               <Markdown of={zahtev.konkretizacija} />
             </div>
@@ -55,6 +57,27 @@ const { frontmatter } = await file("zahtevi", lang);
     border: 2px solid black;
     border-radius: 0.5rem;
     margin: -2px;
+    list-style-type: none;
+  }
+
+  details summary strong {
+      font-size: 1.5rem;
+      //margin-right: .5rem;
+  }
+
+  details[open] .content {
+      animation: animateDown 0.2s linear forwards;
+  }
+
+  @keyframes animateDown {
+      0% {
+          opacity: 0;
+          transform: translatey(-30px);
+      }
+      100% {
+          opacity: 1;
+          transform: translatey(0);
+      }
   }
 
   details .content {
