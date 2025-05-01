@@ -7,6 +7,11 @@ pubDate: 2025-05-01T09:09:00.000Z
 heroImage: '@assets/images/1-maj_.jpg'
 description: Пет националних синдиката и Студенти у блокади вас позивају да проведете Дан рада солидарно и у заједничкој борби!
 timeline:
+  - naslov: Крај протеста
+    datum: 2025-05-01T16:10:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: 16 минута тишине
     datum: 2025-05-01T15:50:00.000Z
     videos: []
@@ -23,7 +28,7 @@ timeline:
       - '@assets/images/photo_2025-05-01_15-46-12.jpg'
       - '@assets/images/photo_2025-05-01_15-46-07.jpg'
       - '@assets/images/photo_2025-05-01_15-46-05.jpg'
-    tekst: ''
+    tekst: '> Студенти уз раднике, радници уз студенте, до испуњења захтева!'
   - naslov: Скупљају се грађани
     datum: 2025-05-01T14:29:00.000Z
     videos: []
