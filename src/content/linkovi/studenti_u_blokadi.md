@@ -6,7 +6,7 @@ linkovi:
     link: https://blokade.org
   - ikonica: hand-coin
     naslov: IT mreža solidarnosti
-    link: https://www.mrezasolidarnosti.org/
+    link: https://mrezasolidarnosti.org/
   - ikonica: instagram
     naslov: Instagram nalog
     link: https://instagram.com/studenti_u_blokadi
