@@ -22,7 +22,7 @@ if (typeof lang === "undefined") {
 const { Content: Pocetna, frontmatter: pocetna } = await file("pocetna", lang);
 const { Content: Zahtevi } = await file("zahtevi", lang);
 const { frontmatter } = await file("ostalo", lang);
-const { frontmatter : frontmatter_faq } = await file("faq", lang);
+// const { frontmatter : frontmatter_faq } = await file("faq", lang);
 const live = (await collection("vesti", lang)).filter((vest) => vest.data.live);
 
 const vesti = await collection("vesti", lang);
