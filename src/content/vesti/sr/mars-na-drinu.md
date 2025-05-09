@@ -6,6 +6,15 @@ draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'
 timeline:
+  - naslov: Неке лепе слике
+    datum: 2025-05-09T14:55:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_1090102.JPG'
+      - '@assets/images/_1090100.JPG'
+      - '@assets/images/_1090081.JPG'
+      - '@assets/images/_1090085.JPG'
+    tekst: Сликала колегиница [@naadjicaaa](https://www.instagram.com/naadjicaaa/).
   - naslov: Монолози глумаца
     datum: 2025-05-09T13:14:00.000Z
     videos: []
