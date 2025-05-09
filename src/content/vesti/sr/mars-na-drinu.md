@@ -12,7 +12,7 @@ timeline:
     slike:
       - '@assets/images/photo_2025-05-09_17-57-02.jpg'
       - '@assets/images/photo_2025-05-09_17-57-00.jpg'
-    tekst: ''
+    tekst: Сликао колега [@fotkam.blokade](https://instagram.com/fotkam.blokade)
   - naslov: Говор професора Слободана Вукосавића
     datum: 2025-05-09T17:21:00.000Z
     videos: []
