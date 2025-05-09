@@ -1,7 +1,7 @@
 ---
 link: mars-na-drinu
 title: Марш на Дрину
-live: false
+live: true
 draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'

@@ -35,32 +35,18 @@ const akcije = await collection("akcije", lang);
   description={SITE_DESCRIPTION}
   image={slavija.src}
 >
-  <div
-    class="title full-width"
-  >
-    <Picture
-      formats={['avif', 'webp']}
-      src={slavija}
-      loading="eager"
-      alt=""
-      widths={[240, 540, 720, slavija.width]}
-      width={slavija.width}
-      height={320}
-      sizes={`(max-width: 360px) 240px, (max-width: 720px) 540px, (max-width: 1600px) 720px, ${slavija.width}px`}
-    />
+  <div class="title full-width">
+    <section>
+      <h1>{frontmatter.naslov}</h1>
 
+      <Pocetna />
+    </div>
     <div class="live-box">
       {live.map(live =>
         <Live href={`/${lang}/vesti/${live.id}`}>{live.data.title}</Live>
       )}
     </div>
-
-    <h1>{frontmatter.naslov}</h1>
   </div>
-
-  <section>
-    <Pocetna />
-  </section>
 
   <div class="dark-background full-width">
     <section class="gap">
@@ -126,37 +112,32 @@ const akcije = await collection("akcije", lang);
 <style>
   .title {
     position: relative;
-    background-size: cover;
-    background-position: center;
-    height: 22rem;
+    color: white;
+    margin-block: 4rem;
 
-    display: flex;
-    align-items: center;
-    overflow: hidden;
+    padding: 4rem;
   }
 
-  .title :is(picture, img) {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
+
+  .title h1 {
+    border-left: 0.4rem rgb(var(--black)) solid;
+    padding-left: 1rem;
   }
 
   .title::before {
     content: "";
+
+    z-index: -1;
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.4);
     inset: 0;
-    z-index: 0;
+    left: calc(calc(100% - 70rem) / 2 - 4rem);
+
+    background-color: var(--accent);
+    border-radius: 2rem 0 0 2rem;
   }
 
   .title h1 {
-    margin-inline: auto;
-    padding-inline: 2rem;
-    color: white;
-    z-index: 1;
-    font-size: 5rem;
-    text-align: center;
+    margin-top: 0;
   }
 
   .pitanja {
