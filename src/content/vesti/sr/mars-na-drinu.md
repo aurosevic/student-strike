@@ -6,6 +6,12 @@ draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'
 timeline:
+  - naslov: Говор студента Николе Марчетића
+    datum: 2025-05-09T16:33:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/loznica-03574.jpg'
+    tekst: ''
   - naslov: Дефиле бајкера
     datum: 2025-05-09T16:17:00.000Z
     videos: []
