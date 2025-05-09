@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'
 timeline:
+  - naslov: 16 минута тишине
+    datum: 2025-05-09T17:55:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/photo_2025-05-09_17-57-02.jpg'
+      - '@assets/images/photo_2025-05-09_17-57-00.jpg'
+    tekst: ''
   - naslov: Говор професора Слободана Вукосавића
     datum: 2025-05-09T17:21:00.000Z
     videos: []
