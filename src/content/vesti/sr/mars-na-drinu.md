@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'
 timeline:
+  - naslov: Монолози глумаца
+    datum: 2025-05-09T13:14:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC07049.JPG'
+      - '@assets/images/DSC07054.JPG'
+    tekst: На раскрсници улица Булевар Доситеја Обрадовића и Светог Саве поставњена је бина где ће се одржати монолози глумаца.
   - naslov: 16 минута тишине
     datum: 2025-05-09T11:52:00.000Z
     videos: []
