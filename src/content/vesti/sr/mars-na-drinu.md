@@ -6,6 +6,17 @@ draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'
 timeline:
+  - naslov: Дефиле бајкера
+    datum: 2025-05-09T16:17:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC07167.JPG'
+      - '@assets/images/DSC07155.JPG'
+      - '@assets/images/DSC07152.JPG'
+      - '@assets/images/DSC07168.JPG'
+      - '@assets/images/DSC07169.JPG'
+      - '@assets/images/DSC07131.JPG'
+    tekst: ''
   - naslov: Програм говора
     datum: 2025-05-09T15:07:00.000Z
     videos: []
