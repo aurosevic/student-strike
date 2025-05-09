@@ -6,6 +6,12 @@ draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'
 timeline:
+  - naslov: Позив на чишћење
+    datum: 2025-05-09T21:10:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/1000190264.jpg'
+    tekst: '> Позивамо вас да нам се придружите чишћењу нашег лепог града уз вечерашњи музигки програм.'
   - naslov: Блокадни хор
     datum: 2025-05-09T19:08:00.000Z
     videos: []
