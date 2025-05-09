@@ -6,6 +6,12 @@ draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'
 timeline:
+  - naslov: Говор бициклиста који су возили до Стразбура
+    datum: 2025-05-09T17:12:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC03612.jpg'
+    tekst: ''
   - naslov: Говори професора са Биолошког факултета
     datum: 2025-05-09T16:50:00.000Z
     videos: []
