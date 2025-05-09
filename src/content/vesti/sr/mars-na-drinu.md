@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'
 timeline:
+  - naslov: Блокадни хор
+    datum: 2025-05-09T19:08:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/DSC07330.JPG'
+      - '@assets/images/DSC07347.JPG'
+    tekst: ''
   - naslov: 16 минута тишине
     datum: 2025-05-09T17:55:00.000Z
     videos: []
