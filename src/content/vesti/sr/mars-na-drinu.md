@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-05-06T20:07:00.000Z
 heroImage: '@assets/images/mars-na-drinu.png'
 timeline:
+  - naslov: Говори професора са Биолошког факултета
+    datum: 2025-05-09T16:50:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/loznica-03584.jpg'
+      - '@assets/images/loznica-03590.jpg'
+    tekst: Професори Љиљана Томовић и Имре Кризманић говоре о штетним утицајима рудника Јадар на животну средину.
   - naslov: Говор студента Николе Марчетића
     datum: 2025-05-09T16:33:00.000Z
     videos: []
