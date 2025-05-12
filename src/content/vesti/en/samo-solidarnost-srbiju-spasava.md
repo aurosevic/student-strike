@@ -14,9 +14,6 @@ Since the beginning of the blockade, several groups of citizens have supported s
 
 This public action aims to show the support and solidarity of the citizens of Aranđelovac who suffer pressures, as well as to show that their students and graduates are persistent in our fight to fulfill the demands despite the various types of pressures they suffer together with their fellow citizens. The goal of the public action is to show that the student’s will has not been suppressed despite all the pressures.
 
-
-
-
 ### **Protest plan:**
 
 #### **Introduction and our speech**
@@ -34,9 +31,6 @@ This public action aims to show the support and solidarity of the citizens of Ar
 - **08.30 PM** – Cowabunga
 - **09.00 PM** – Beogradski sindikat
 
-
-
-
 #### **Off-stage program and free activities:**
 
 - **Information desk about student requests**
@@ -53,8 +47,5 @@ This public action aims to show the support and solidarity of the citizens of Ar
 - **Picnic area**
 
 Other activities last the whole day.
-
-
-
 
 **Note**: the program is subject to change.
