@@ -12,9 +12,9 @@ timeline:
     slike:
       - '@assets/images/%D0%B01.webp'
       - '@assets/images/%D0%B02.webp'
+      - '@assets/images/%D0%B05.webp'
       - '@assets/images/%D0%B03.webp'
       - '@assets/images/%D0%B04.webp'
-      - '@assets/images/%D0%B05.webp'
       - '@assets/images/%D0%B06.webp'
     tekst: ''
   - naslov: Промена сатнице програма
