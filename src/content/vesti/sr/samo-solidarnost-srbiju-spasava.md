@@ -10,7 +10,7 @@ timeline:
     datum: 2025-05-12T18:11:00.000Z
     videos: []
     slike:
-      - '@assets/images/kv0.webp'
+      - '@assets/images/kvv.webp'
       - '@assets/images/kv.webp'
     tekst: ''
   - naslov: Атмосфера у Аранђеловцу
