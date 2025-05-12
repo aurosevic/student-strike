@@ -14,18 +14,15 @@ Since the beginning of the blockade, several groups of citizens have supported s
 
 This public action aims to show the support and solidarity of the citizens of Aranđelovac who suffer pressures, as well as to show that their students and graduates are persistent in our fight to fulfill the demands despite the various types of pressures they suffer together with their fellow citizens. The goal of the public action is to show that the student’s will has not been suppressed despite all the pressures.
 
-
-
-
 ### **Protest plan:**
 
 **Introduction and our speech**
 
-- 02.30 PM– DJ Žeks
-- 03.00 PM – PUF group
-- 03.30 PM– Stojnik pumps
-- 04.00 PM– 16 minutes of silence
-- 04.16 PM – Speeches from colleagues from Šabac and Požarevac
-- 04.30 PM– Razgivor band
-- 05.00 PM– Hometown
-- 06.00 PM– Broadcast of the welcoming of cyclists in Brussels
+- **02.30 PM**– DJ Žeks
+- **03.00 PM** – PUF group
+- **03.30 PM**– Stojnik pumps
+- **04.00 PM**– 16 minutes of silence
+- **04.16 PM** – Speeches from colleagues from Šabac and Požarevac
+- **04.30 PM**– Razgivor band
+- **05.00 PM**– Hometown
+- **06.00 PM**– Broadcast of the welcoming of cyclists in Brussels
