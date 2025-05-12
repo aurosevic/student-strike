@@ -6,6 +6,11 @@ draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
 timeline:
+  - naslov: Група Лустери
+    datum: 2025-05-12T21:01:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: Cowabunga
     datum: 2025-05-12T20:39:00.000Z
     videos: []
