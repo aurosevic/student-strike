@@ -4,9 +4,14 @@ title: Само солидАРрност Србију спасава
 live: true
 draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
-updatedDate: 2025-05-12T16:41:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
 timeline:
+  - naslov: Промена сатнице програма
+    datum: 2025-05-12T16:46:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/program.webp'
+    tekst: Због временских услова, мења се програм бендова.
   - naslov: Наступ DJ Жекса
     datum: 2025-05-12T15:36:00.000Z
     videos: []
