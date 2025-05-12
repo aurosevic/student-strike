@@ -1,47 +1,10 @@
 ---
 link: samo-solidarnost-srbiju-spasava
 title: Само солидАРрност Србију спасава
-live: true
+live: false
 draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
-timeline:
-  - naslov: Атмосфера у Аранђеловцу
-    datum: 2025-05-12T17:17:00.000Z
-    videos: []
-    slike:
-      - '@assets/images/a1.webp'
-      - '@assets/images/a2.webp'
-      - '@assets/images/a3.webp'
-      - '@assets/images/a4.webp'
-      - '@assets/images/a5.webp'
-      - '@assets/images/a6.webp'
-    tekst: ''
-  - naslov: Промена сатнице програма
-    datum: 2025-05-12T16:46:00.000Z
-    videos: []
-    slike:
-      - '@assets/images/program-1.webp'
-    tekst: Због временских услова, мења се програм бендова.
-  - naslov: Говор Синише Гаврића, професора филозофије
-    datum: 2025-05-12T15:38:00.000Z
-    videos: []
-    slike:
-      - '@assets/images/sinisa1.webp'
-      - '@assets/images/sinisa2.webp'
-    tekst: Синиша Гаврић је једини професор у Аранђеловцу који је остао у обустави наставе, због чега је покренут дисциплински поступак против њега и суспендован је на 3 месеца.
-  - naslov: Наступ DJ Жекса
-    datum: 2025-05-12T15:36:00.000Z
-    videos: []
-    slike:
-      - '@assets/images/dj1.webp'
-      - '@assets/images/dj2.webp'
-    tekst: ''
-  - naslov: Почео је протест у Аранђеловцу!
-    datum: 2025-05-12T15:33:00.000Z
-    videos: []
-    slike: []
-    tekst: ''
 ---
 У складу са децентрализацијом и скретањем пажње на проблеме у мањим местима, матуранти и студенти из Аранђеловца организују протест 12. маја. 
 
@@ -62,7 +25,7 @@ timeline:
 - **16.16** - **Говори колега из Шапца и Пожаревца**
 - **16.30** - Разгивор бенд
 - **17.00** - Родни крај
-- **18.00** -  **Пренос дочека тркача у Бриселу&#32;&#32;**
+- **18.00** -  **Пренос дочека бициклиста у Бриселу**
 - **19.30** - **Говори васпитача, просветара, колега из Новог Пазара и ратних ветерана**
 - **20.00** - Лустери
 - **20.30** - Cowabungа
