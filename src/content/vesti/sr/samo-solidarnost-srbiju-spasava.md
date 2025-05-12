@@ -10,12 +10,12 @@ timeline:
     datum: 2025-05-12T17:17:00.000Z
     videos: []
     slike:
-      - '@assets/images/а1.webp'
-      - '@assets/images/а2.webp'
-      - '@assets/images/а5.webp'
-      - '@assets/images/а3.webp'
-      - '@assets/images/а4.webp'
-      - '@assets/images/а6.webp'
+      - '@assets/images/a1.webp'
+      - '@assets/images/a2.webp'
+      - '@assets/images/a3.webp'
+      - '@assets/images/a4.webp'
+      - '@assets/images/a5.webp'
+      - '@assets/images/a6.webp'
     tekst: ''
   - naslov: Промена сатнице програма
     datum: 2025-05-12T16:46:00.000Z
