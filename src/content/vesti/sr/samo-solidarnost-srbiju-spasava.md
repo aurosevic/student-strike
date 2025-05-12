@@ -10,8 +10,8 @@ timeline:
     datum: 2025-05-12T15:36:00.000Z
     videos: []
     slike:
-      - '@assets/images/_DSC7530.webp'
-      - '@assets/images/_DSC7532.webp'
+      - '@assets/images/dj1.webp'
+      - '@assets/images/dj2.webp'
     tekst: ''
   - naslov: Почео је протест у Аранђеловцу!
     datum: 2025-05-12T15:33:00.000Z
