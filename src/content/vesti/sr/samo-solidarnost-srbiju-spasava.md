@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
 timeline:
+  - naslov: Говор ратних ветерана
+    datum: 2025-05-12T18:58:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/veteranii.webp'
+      - '@assets/images/veterani.webp'
+    tekst: '> Видећемо шта ће чинити деца, а ми ћемо пратити као војници.'
   - naslov: Најављен је протест у Шапцу за 31.05.
     datum: 2025-05-12T18:55:00.000Z
     videos: []
