@@ -5,6 +5,12 @@ live: false
 draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
+timeline:
+  - naslov: Почео је протест у Аранђеловцу!
+    datum: 2025-05-12T15:33:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
 ---
 У складу са децентрализацијом и скретањем пажње на проблеме у мањим местима, матуранти и студенти из Аранђеловца организују протест 12. маја. 
 
