@@ -24,5 +24,5 @@ This public action aims to show the support and solidarity of the citizens of Ar
 - **04.00 PM**– 16 minutes of silence
 - **04.16 PM** – Speeches from colleagues from Šabac and Požarevac
 - **04.30 PM**– Razgivor band
-- **05.00 PM**– Hometown
+- **05.00 PM**– Hometown        
 - **06.00 PM**– Broadcast of the welcoming of cyclists in Brussels
