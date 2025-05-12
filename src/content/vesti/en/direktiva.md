@@ -6,7 +6,7 @@ draft: uredjivanje
 pubDate: 2025-05-05T21:30:00.000Z
 heroImage: '@assets/images/direktiva.jpg'
 ---
-Over five months, the students have been trying to achieve the fulfillment of their demands through all legitimate and peaceful means. Despite this, the student demands have not been met, and the authorities have not shown the least initiative to fulfill them in the future.
+Over five months, the students have been trying to achieve the fulfillment of their demands through all legitimate and peaceful means. Despite this, the student demands have not been met, and the authorities have not shown the least initiative to fulfill them in the future. 
 
 The student movement initiated protests the numbers of which had not been seen before, showed that the voice of youth was not just noise, but strength which could bring about change, return dignity and awaken hope in justice and freedom, and proved that the sovereignty of our country is in the hands of the people.
 
