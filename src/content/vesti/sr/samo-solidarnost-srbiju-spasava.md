@@ -1,6 +1,6 @@
 ---
 link: samo-solidarnost-srbiju-spasava
-title: Само солидАРрност Србију спасава
+title: Само солидАРност Србију спасава
 live: true
 draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
