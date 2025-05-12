@@ -12,6 +12,18 @@ backend:
   branch: main
   base_url: https://sveltia-cms-auth.velikihumus.workers.dev/
 
+media_libraries:
+  default:
+    config:
+      transformations:
+        raster_image:
+          format: webp
+          quality: 85
+          width: 1920
+          height: 1920
+        svg:
+          optimize: true
+
 output:
   omit_empty_optional_fields: true
 
