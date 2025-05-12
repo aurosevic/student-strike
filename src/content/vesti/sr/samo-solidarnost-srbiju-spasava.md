@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
 timeline:
+  - naslov: Cowabunga
+    datum: 2025-05-12T20:39:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/cowa1.webp'
+      - '@assets/images/cowa2.webp'
+    tekst: ''
   - naslov: Родни крај по други пут на бини
     datum: 2025-05-12T20:10:00.000Z
     videos: []
