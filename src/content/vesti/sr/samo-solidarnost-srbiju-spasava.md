@@ -6,6 +6,12 @@ draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
 timeline:
+  - naslov: Родни крај
+    datum: 2025-05-12T18:55:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/rodnikraj.webp'
+    tekst: ''
   - naslov: Разгивор бенд
     datum: 2025-05-12T18:23:00.000Z
     videos: []
