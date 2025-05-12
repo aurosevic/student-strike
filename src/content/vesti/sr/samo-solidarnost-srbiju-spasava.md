@@ -11,6 +11,9 @@ timeline:
     videos: []
     slike:
       - '@assets/images/raz.webp'
+      - '@assets/images/raz1.webp'
+      - '@assets/images/raz2.webp'
+      - '@assets/images/raz3.webp'
     tekst: ''
   - naslov: Књижевно вече је померено на главну бину
     datum: 2025-05-12T18:16:00.000Z
