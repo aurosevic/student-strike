@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
 timeline:
+  - naslov: Наступ DJ Жекса
+    datum: 2025-05-12T15:36:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7530.webp'
+      - '@assets/images/_DSC7532.webp'
+    tekst: ''
   - naslov: Почео је протест у Аранђеловцу!
     datum: 2025-05-12T15:33:00.000Z
     videos: []
