@@ -18,11 +18,11 @@ This public action aims to show the support and solidarity of the citizens of Ar
 
 **Introduction and our speech**
 
-- **02.30 PM**– DJ Žeks
+- **02.30 PM** – DJ Žeks
 - **03.00 PM** – PUF group
-- **03.30 PM**– Stojnik pumps
-- **04.00 PM**– 16 minutes of silence
+- **03.30 PM** – Stojnik pumps
+- **04.00 PM** – 16 minutes of silence
 - **04.16 PM** – Speeches from colleagues from Šabac and Požarevac
-- **04.30 PM**– Razgivor band
-- **05.00 PM**– Hometown        
-- **06.00 PM**– Broadcast of the welcoming of cyclists in Brussels
+- **04.30 PM** – Razgivor band
+- **05.00 PM** – Hometown        
+- **06.00 PM** – Broadcast of the welcoming of cyclists in Brussels
