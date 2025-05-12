@@ -10,7 +10,7 @@ timeline:
     datum: 2025-05-12T19:30:00.000Z
     videos: []
     slike:
-      - '@assets/images/brisel.webp'
+      - '@assets/images/brisell.webp'
     tekst: Након 18 дана, наши тркачи су стигли у Брисел.
   - naslov: Говор колеге из Новог Пазара
     datum: 2025-05-12T19:08:00.000Z
