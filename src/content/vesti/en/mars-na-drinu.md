@@ -20,8 +20,8 @@ We don’t want to be passive observers. We are active participants in building 
 
 - **11.00 AM** – Beginning of the protest
 - **11.52 AM** – Honouring the victims from Novi Sad
-- **01.00 PM**– Actors’ monologues
-- **04.30 PM**– Honoring the victims of fascism (minute of silence)
+- **01.00 PM** – Actors’ monologues
+- **04.30 PM** – Honoring the victims of fascism (minute of silence)
 - **04.31 PM** – Speeches
 - **05.44 PM** – Honouring the victims from Novi Sad
 - **06.00 PM** – Welcoming the runners from Tekeriš
