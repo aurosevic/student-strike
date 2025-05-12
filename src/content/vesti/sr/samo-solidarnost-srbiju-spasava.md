@@ -6,6 +6,17 @@ draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
 timeline:
+  - naslov: Атмосфера у Аранђеловцу
+    datum: 2025-05-12T17:05:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/%D0%B01.webp'
+      - '@assets/images/%D0%B02.webp'
+      - '@assets/images/%D0%B03.webp'
+      - '@assets/images/%D0%B04.webp'
+      - '@assets/images/%D0%B05.webp'
+      - '@assets/images/%D0%B06.webp'
+    tekst: ''
   - naslov: Промена сатнице програма
     datum: 2025-05-12T16:46:00.000Z
     videos: []
