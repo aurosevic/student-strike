@@ -10,9 +10,9 @@ timeline:
     datum: 2025-05-12T20:10:00.000Z
     videos: []
     slike:
-      - '@assets/images/rodni2.webp'
-      - '@assets/images/rodni1.webp'
       - '@assets/images/rodni3.webp'
+      - '@assets/images/rodni1.webp'
+      - '@assets/images/rodni2.webp'
       - '@assets/images/rodni4.webp'
       - '@assets/images/rodni6.webp'
       - '@assets/images/rodni5.webp'
