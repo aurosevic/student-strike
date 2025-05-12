@@ -7,7 +7,7 @@ pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
 timeline:
   - naslov: Говор колеге из Новог Пазара
-    datum: 2025-05-12T17:08:00.000Z
+    datum: 2025-05-12T19:08:00.000Z
     videos: []
     slike:
       - '@assets/images/np.webp'
