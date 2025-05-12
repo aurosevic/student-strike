@@ -6,7 +6,7 @@ draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
 timeline:
-  - naslov: Књижевно вече је померено на главну бину!
+  - naslov: Књижевно вече је померено на главну бину
     datum: 2025-05-12T18:11:00.000Z
     videos: []
     slike:
