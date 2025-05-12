@@ -1,7 +1,7 @@
 ---
 link: samo-solidarnost-srbiju-spasava
 title: Само солидАРрност Србију спасава
-live: false
+live: true
 draft: uredjivanje
 pubDate: 2025-05-11T01:32:00.000Z
 heroImage: '@assets/images/arandjelovac.jpeg'
