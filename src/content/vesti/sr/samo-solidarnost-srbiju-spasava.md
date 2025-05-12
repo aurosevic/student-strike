@@ -10,7 +10,7 @@ timeline:
     datum: 2025-05-12T16:46:00.000Z
     videos: []
     slike:
-      - '@assets/images/program.webp'
+      - '@assets/images/program-1.webp'
     tekst: Због временских услова, мења се програм бендова.
   - naslov: Наступ DJ Жекса
     datum: 2025-05-12T15:36:00.000Z
