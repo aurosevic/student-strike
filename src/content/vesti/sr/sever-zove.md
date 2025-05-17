@@ -7,6 +7,13 @@ pubDate: 2025-05-17T11:00:00.000Z
 heroImage: '@assets/images/subotica.webp'
 description: Студенти из Суботице вас позивају на протест 17. маја. Север зове!
 timeline:
+  - naslov: Говор студента
+    datum: 2025-05-17T19:34:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/g1.webp'
+      - '@assets/images/g2.webp'
+    tekst: '> Суботички студенти проглашавају 17. мај за дан града Суботице док се ствари не поправе.'
   - naslov: Блокада инфо подкаст
     datum: 2025-05-17T19:09:00.000Z
     videos: []
