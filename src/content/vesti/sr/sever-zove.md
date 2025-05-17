@@ -12,6 +12,12 @@ timeline:
     videos: []
     slike:
       - '@assets/images/b2.webp'
+      - '@assets/images/b3.webp'
+      - '@assets/images/b4.webp'
+      - '@assets/images/b5.webp'
+      - '@assets/images/b6.webp'
+      - '@assets/images/b7.webp'
+      - '@assets/images/b8.webp'
       - '@assets/images/b1.webp'
     tekst: ''
   - naslov: Блокадни хор Суботице, Блокадни оркестар Суботице и гости из других градова
