@@ -10,7 +10,8 @@ timeline:
   - naslov: Блокада инфо подкаст
     datum: 2025-05-17T19:09:00.000Z
     videos: []
-    slike: []
+    slike:
+      - '@assets/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D1%99%D0%B5%D0%BD%20%D0%B4%D0%B0%D0%BD%D0%B0%202025-05-17%2019-08-47.webp'
     tekst: 'Подкаст, као и пренос целог протеста у Суботици, можете пратити на следећем линку: [https://www.youtube.com/watch?v=tACF1HxeAoc](https://www.youtube.com/watch?v=tACF1HxeAoc)'
   - naslov: Дочек бициклиста
     datum: 2025-05-17T18:31:00.000Z
