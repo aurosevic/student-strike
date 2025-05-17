@@ -7,6 +7,11 @@ pubDate: 2025-05-17T11:00:00.000Z
 heroImage: '@assets/images/subotica.webp'
 description: Студенти из Суботице вас позивају на протест 17. маја. Север зове!
 timeline:
+  - naslov: Блокада инфо подкаст
+    datum: 2025-05-17T19:09:00.000Z
+    videos: []
+    slike: []
+    tekst: 'Подкаст, као и пренос целог протеста у Суботици, можете пратити на следећем линку: [https://www.youtube.com/watch?v=tACF1HxeAoc](https://www.youtube.com/watch?v=tACF1HxeAoc)'
   - naslov: Дочек бициклиста
     datum: 2025-05-17T18:31:00.000Z
     videos: []
