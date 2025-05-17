@@ -7,6 +7,11 @@ pubDate: 2025-05-17T11:00:00.000Z
 heroImage: '@assets/images/subotica.webp'
 description: Студенти из Суботице вас позивају на протест 17. маја. Север зове!
 timeline:
+  - naslov: Наступ Београдског синдиката
+    datum: 2025-05-17T23:10:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: Наступ групе Драм
     datum: 2025-05-17T22:13:00.000Z
     videos: []
