@@ -7,6 +7,13 @@ pubDate: 2025-05-17T11:00:00.000Z
 heroImage: '@assets/images/subotica.webp'
 description: Студенти из Суботице вас позивају на протест 17. маја. Север зове!
 timeline:
+  - naslov: DJ наступ код Главне бине
+    datum: 2025-05-17T15:43:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/djmasinci.webp'
+      - '@assets/images/dj.webp'
+    tekst: ''
   - naslov: Почео је протест у Суботици!
     datum: 2025-05-17T14:11:00.000Z
     videos: []
