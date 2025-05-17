@@ -12,7 +12,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/podkast.webp'
-    tekst: 'Подкаст, као и пренос целог протеста у Суботици, који прате наше колеге из Новог Сада, можете пратити на следећем линку: [https://www.youtube.com/watch?v=tACF1HxeAoc](blokada.info)'
+    tekst: 'Подкаст, као и пренос целог протеста у Суботици, који прате наше колеге из Новог Сада, можете пратити на следећем линку: [blokada.info](https://www.youtube.com/watch?v=tACF1HxeAoc)'
   - naslov: Дочек бициклиста
     datum: 2025-05-17T18:31:00.000Z
     videos: []
