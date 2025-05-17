@@ -7,6 +7,21 @@ pubDate: 2025-05-17T11:00:00.000Z
 heroImage: '@assets/images/subotica.webp'
 description: Студенти из Суботице вас позивају на протест 17. маја. Север зове!
 timeline:
+  - naslov: Блокадни хор Суботице, Блокадни оркестар Суботице и гости из других градова
+    datum: 2025-05-17T17:11:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/h1.webp'
+      - '@assets/images/h2.webp'
+      - '@assets/images/h3.webp'
+      - '@assets/images/h4.webp'
+    tekst: ''
+  - naslov: Перформанс - Пуштање голубова
+    datum: 2025-05-17T17:01:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/golubovi.webp'
+    tekst: ''
   - naslov: Перформанс на Главној бини
     datum: 2025-05-17T16:40:00.000Z
     videos: []
