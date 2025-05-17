@@ -7,6 +7,11 @@ pubDate: 2025-05-17T11:00:00.000Z
 heroImage: '@assets/images/subotica.webp'
 description: Студенти из Суботице вас позивају на протест 17. маја. Север зове!
 timeline:
+  - naslov: 16 минута тишине
+    datum: 2025-05-17T20:15:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: Говор студента Ведрана Пејића
     datum: 2025-05-17T19:34:00.000Z
     videos: []
