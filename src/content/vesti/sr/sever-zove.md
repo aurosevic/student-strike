@@ -20,7 +20,7 @@ timeline:
     datum: 2025-05-17T17:01:00.000Z
     videos: []
     slike:
-      - '@assets/images/golubovi.webp'
+      - '@assets/images/boljigolubovi.webp'
     tekst: ''
   - naslov: Перформанс на Главној бини
     datum: 2025-05-17T16:40:00.000Z
