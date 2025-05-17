@@ -7,6 +7,17 @@ pubDate: 2025-05-17T11:00:00.000Z
 heroImage: '@assets/images/subotica.webp'
 description: Студенти из Суботице вас позивају на протест 17. маја. Север зове!
 timeline:
+  - naslov: Перформанс на главној бини
+    datum: 2025-05-17T16:40:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/p1.webp'
+      - '@assets/images/p2.webp'
+      - '@assets/images/p3.webp'
+      - '@assets/images/p4.webp'
+      - '@assets/images/p5.webp'
+      - '@assets/images/p6.webp'
+    tekst: ''
   - naslov: Извођење песме "The Hanging tree"
     datum: 2025-05-17T16:28:00.000Z
     videos: []
