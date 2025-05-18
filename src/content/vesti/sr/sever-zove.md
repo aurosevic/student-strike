@@ -1,7 +1,7 @@
 ---
 link: sever-zove
 title: Север зове
-live: true
+live: false
 draft: uredjivanje
 pubDate: 2025-05-17T11:00:00.000Z
 heroImage: '@assets/images/subotica.webp'
