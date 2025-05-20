@@ -7,6 +7,12 @@ pubDate: 2025-05-20T15:13:00.000Z
 heroImage: '@assets/images/zvzcck.webp'
 description: Задњи воз за Чачак - где је цена карте истина!
 timeline:
+  - naslov: Хор просветних радника из Пожеге
+    datum: 2025-05-20T19:51:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/cacakhor.webp'
+    tekst: ''
   - naslov: Наступ бенда Чачански мачори
     datum: 2025-05-20T18:00:00.000Z
     videos: []
