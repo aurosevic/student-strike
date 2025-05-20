@@ -7,6 +7,15 @@ pubDate: 2025-05-20T15:13:00.000Z
 heroImage: '@assets/images/zvzcck.webp'
 description: Задњи воз за Чачак - где је цена карте истина!
 timeline:
+  - naslov: 16 минута тишине
+    datum: 2025-05-20T21:09:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/bs1.webp'
+      - '@assets/images/bs2.webp'
+      - '@assets/images/bs3.webp'
+      - '@assets/images/bs4.webp'
+    tekst: ''
   - naslov: Наступ Београдског синдиката
     datum: 2025-05-20T20:37:00.000Z
     videos: []
@@ -50,6 +59,9 @@ timeline:
     videos: []
     slike:
       - '@assets/images/IMG_9819.webp'
+      - '@assets/images/t4.webp'
+      - '@assets/images/t2.webp'
+      - '@assets/images/t1.webp'
     tekst: ''
   - naslov: Атмосфера на почетку протеста
     datum: 2025-05-20T15:05:00.000Z
