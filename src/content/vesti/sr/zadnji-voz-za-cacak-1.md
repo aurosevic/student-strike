@@ -7,6 +7,15 @@ pubDate: 2025-05-20T15:13:00.000Z
 heroImage: '@assets/images/zvzcck.webp'
 description: Задњи воз за Чачак - где је цена карте истина!
 timeline:
+  - naslov: Наступ Београдског синдиката
+    datum: 2025-05-20T20:37:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/bs1.webp'
+      - '@assets/images/bs2.webp'
+      - '@assets/images/bs3.webp'
+      - '@assets/images/bs4.webp'
+    tekst: ''
   - naslov: Говор Ненада Станића, ратног ветерана
     datum: 2025-05-20T20:26:00.000Z
     videos: []
