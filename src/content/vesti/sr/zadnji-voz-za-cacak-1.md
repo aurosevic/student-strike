@@ -10,11 +10,7 @@ timeline:
   - naslov: 16 минута тишине
     datum: 2025-05-20T21:09:00.000Z
     videos: []
-    slike:
-      - '@assets/images/bs1.webp'
-      - '@assets/images/bs2.webp'
-      - '@assets/images/bs3.webp'
-      - '@assets/images/bs4.webp'
+    slike: []
     tekst: ''
   - naslov: Наступ Београдског синдиката
     datum: 2025-05-20T20:37:00.000Z
