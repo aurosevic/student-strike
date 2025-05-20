@@ -17,10 +17,10 @@ timeline:
     datum: 2025-05-20T15:05:00.000Z
     videos: []
     slike:
-      - '@assets/images/Tadic%20-068.webp'
-      - '@assets/images/Tadic%20-199.webp'
-      - '@assets/images/Tadic%20-063.webp'
-      - '@assets/images/Tadic%20-055.webp'
+      - '@assets/images/t3.webp'
+      - '@assets/images/t4.webp'
+      - '@assets/images/t2.webp'
+      - '@assets/images/t1.webp'
     tekst: |-
       Народ пристиже у Чачак. Студенти и грађани желе добродошлицу свима који дођу у град великана попут Надежде Петровић, Владислава Петковића Диса и Степе Степановића. Град рокенрола штимује своје гитаре. Задњи воз за Чачак је кренуо и цена је истина.
 
