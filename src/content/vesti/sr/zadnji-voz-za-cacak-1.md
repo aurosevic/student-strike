@@ -10,7 +10,8 @@ timeline:
   - naslov: 16 минута тишине
     datum: 2025-05-20T21:09:00.000Z
     videos: []
-    slike: []
+    slike:
+      - '@assets/images/16cacak.webp'
     tekst: ''
   - naslov: Наступ Београдског синдиката
     datum: 2025-05-20T20:37:00.000Z
