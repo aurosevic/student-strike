@@ -13,7 +13,7 @@ timeline:
     slike:
       - '@assets/images/IMG_9819.webp'
     tekst: ''
-  - naslov: Атмосфера са почетка
+  - naslov: Атмосфера на почетку протеста
     datum: 2025-05-20T15:05:00.000Z
     videos: []
     slike:
