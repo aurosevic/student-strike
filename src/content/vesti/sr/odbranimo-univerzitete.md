@@ -14,7 +14,7 @@ timeline:
     datum: 2025-05-23T16:10:00.000Z
     videos: []
     slike:
-      - '@assets/images/uu1.webp'
+      - '@assets/images/guu1.webp'
     tekst: ''
   - naslov: Говор студенткиње са Факултета политичких наука
     datum: 2025-05-23T16:06:00.000Z
