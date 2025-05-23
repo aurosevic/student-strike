@@ -10,6 +10,12 @@ description: |-
 
   Видимо се на углу Кнеза Милоша и Немањине!
 timeline:
+  - naslov: Говор професорке са Филозофског факултета
+    datum: 2025-05-23T15:52:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/gf.webp'
+    tekst: ''
   - naslov: Најава програма
     datum: 2025-05-23T15:46:00.000Z
     videos: []
