@@ -10,6 +10,12 @@ description: |-
 
   Видимо се на углу Кнеза Милоша и Немањине!
 timeline:
+  - naslov: Говор порфесроа УБ
+    datum: 2025-05-23T15:46:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/g1-1.webp'
+    tekst: ''
   - naslov: Почиње протест Побуњеног универзитета!
     datum: 2025-05-23T15:00:00.000Z
     videos: []
