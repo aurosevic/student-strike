@@ -7,6 +7,17 @@ pubDate: 2025-05-23T19:20:00.000Z
 heroImage: '@assets/images/za.webp'
 description: Зајечар бира слободу 24. маја! Придружите се великом протесту студената и будите део промене.
 timeline:
+  - naslov: Атмосфера са протеста
+    datum: 2025-05-24T14:13:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC9644.webp'
+      - '@assets/images/_DSC9679.webp'
+      - '@assets/images/_DSC9632.webp'
+      - '@assets/images/_DSC9655.webp'
+      - '@assets/images/_DSC9672.webp'
+      - '@assets/images/_DSC9663.webp'
+    tekst: Сликао колега [@fotkam.blokade](https://www.instagram.com/fotkam.blokade/).
   - naslov: Мотористи стигли на протест
     datum: 2025-05-24T13:49:00.000Z
     videos: []
