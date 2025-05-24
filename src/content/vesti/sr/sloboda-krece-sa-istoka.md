@@ -7,12 +7,13 @@ pubDate: 2025-05-23T19:20:00.000Z
 heroImage: '@assets/images/za.webp'
 description: Зајечар бира слободу 24. маја! Придружите се великом протесту студената и будите део промене.
 timeline:
-  - naslov: Говор студента
+  - naslov: Говор студената
     datum: 2025-05-24T21:32:00.000Z
     videos: []
     slike:
       - '@assets/images/1000196578.webp'
-    tekst: ''
+      - '@assets/images/1000196580.webp'
+    tekst: '> Имамо против чега, а имамо и за шта да се боримо. **И борићемо се!**'
   - naslov: Говор глумца Тихомира Станића
     datum: 2025-05-24T19:57:00.000Z
     videos: []
