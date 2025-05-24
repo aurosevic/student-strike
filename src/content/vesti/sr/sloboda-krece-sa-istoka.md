@@ -7,6 +7,12 @@ pubDate: 2025-05-23T19:20:00.000Z
 heroImage: '@assets/images/za.webp'
 description: Зајечар бира слободу 24. маја! Придружите се великом протесту студената и будите део промене.
 timeline:
+  - naslov: Наступ групе Визељ
+    datum: 2025-05-24T18:45:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/1000196385.webp'
+    tekst: ''
   - naslov: Наступ Лее Стаменковић и Natalee
     datum: 2025-05-24T17:56:00.000Z
     videos: []
@@ -146,6 +152,7 @@ timeline:
     - Milosh Original
     - Aleksamapparat
     - URUG
+
 ### Улица рударења и чесми
 
 - Изложба фотографија
