@@ -14,10 +14,8 @@ timeline:
       - '@assets/images/_DSC9920.webp'
       - '@assets/images/_DSC9925.webp'
       - '@assets/images/_DSC9928.webp'
-      - '@assets/images/_DSC9931.webp'
       - '@assets/images/_DSC9939.webp'
       - '@assets/images/_DSC9901.webp'
-      - '@assets/images/_DSC9900.webp'
       - '@assets/images/_DSC9897.webp'
       - '@assets/images/_DSC9899.webp'
       - '@assets/images/_DSC9944.webp'
@@ -147,13 +145,11 @@ timeline:
 - Изложба фотографија
 - Штанд Еко Истока
 
-‎ 
+‎
 
 ##### Улица хране
 
 - Штандови са храном
-
-‎ 
 
 ##### "Chill" зона (средњошколски центар)
 
