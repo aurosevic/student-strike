@@ -15,6 +15,8 @@ timeline:
       - '@assets/images/_DSC9812.webp'
       - '@assets/images/_DSC9801.webp'
       - '@assets/images/_DSC9805.webp'
+      - '@assets/images/_DSC9830.webp'
+      - '@assets/images/_DSC9825.webp'
     tekst: ''
   - naslov: Говор професора
     datum: 2025-05-24T15:51:00.000Z
