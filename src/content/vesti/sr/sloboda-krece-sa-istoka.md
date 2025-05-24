@@ -7,7 +7,13 @@ pubDate: 2025-05-23T19:20:00.000Z
 heroImage: '@assets/images/za.webp'
 description: Зајечар бира слободу 24. маја! Придружите се великом протесту студената и будите део промене.
 timeline:
-  - naslov: Говорна глсвној бини
+  - naslov: Наступ Лее Стаменковић и Natalee
+    datum: 2025-05-24T17:56:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/1000196373.webp'
+    tekst: ''
+  - naslov: Говорна главној бини
     datum: 2025-05-24T17:45:00.000Z
     videos: []
     slike:
