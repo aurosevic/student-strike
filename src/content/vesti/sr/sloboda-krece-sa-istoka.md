@@ -105,15 +105,6 @@ timeline:
       - '@assets/images/1000196112.webp'
       - '@assets/images/1000196110.webp'
     tekst: ''
-  - naslov: Мотористи стигли на протест
-    datum: 2025-05-24T13:49:00.000Z
-    videos: []
-    slike:
-      - '@assets/images/1000196108.webp'
-      - '@assets/images/1000196106.webp'
-      - '@assets/images/1000196112.webp'
-      - '@assets/images/1000196110.webp'
-    tekst: ''
 ---
 Зајечар бира слободу 24. маја! Придружите се великом протесту студената и будите део промене.
 
