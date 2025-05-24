@@ -7,11 +7,18 @@ pubDate: 2025-05-23T19:20:00.000Z
 heroImage: '@assets/images/za.webp'
 description: Зајечар бира слободу 24. маја! Придружите се великом протесту студената и будите део промене.
 timeline:
-  - naslov: Наступ групе Визељ
-    datum: 2025-05-24T18:45:00.000Z
+  - naslov: Пренос уживо - blokada.info
+    datum: 2025-05-24T19:00:00.000Z
     videos: []
     slike:
-      - '@assets/images/1000196385.webp'
+      - '@assets/images/1000196405.webp'
+    tekst: Пратите пренос уживо колега из Новог Сада на сајту [blokada.info](https://blokada.info)
+  - naslov: Генерална проба групе Визељ
+    datum: 2025-05-24T19:00:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/1000196395.webp'
+      - '@assets/images/1000196401.webp'
     tekst: ''
   - naslov: Наступ Лее Стаменковић и Natalee
     datum: 2025-05-24T17:56:00.000Z
