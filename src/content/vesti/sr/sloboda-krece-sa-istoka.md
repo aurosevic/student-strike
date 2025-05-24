@@ -69,7 +69,7 @@ timeline:
       - '@assets/images/1000196395.webp'
       - '@assets/images/1000196401.webp'
     tekst: ''
-  - naslov: Наступ Лее Стаменковић и Natalee
+  - naslov: Наступ Лене Стаменковић и Natalee
     datum: 2025-05-24T17:56:00.000Z
     videos: []
     slike:
