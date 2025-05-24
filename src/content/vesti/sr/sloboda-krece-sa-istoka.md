@@ -7,6 +7,21 @@ pubDate: 2025-05-23T19:20:00.000Z
 heroImage: '@assets/images/za.webp'
 description: Зајечар бира слободу 24. маја! Придружите се великом протесту студената и будите део промене.
 timeline:
+  - naslov: Дочек бициклиста
+    datum: 2025-05-24T17:17:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC9920.webp'
+      - '@assets/images/_DSC9925.webp'
+      - '@assets/images/_DSC9928.webp'
+      - '@assets/images/_DSC9931.webp'
+      - '@assets/images/_DSC9939.webp'
+      - '@assets/images/_DSC9901.webp'
+      - '@assets/images/_DSC9900.webp'
+      - '@assets/images/_DSC9897.webp'
+      - '@assets/images/_DSC9899.webp'
+      - '@assets/images/_DSC9944.webp'
+    tekst: ''
   - naslov: Дефиле бајкера
     datum: 2025-05-24T16:35:00.000Z
     videos: []
