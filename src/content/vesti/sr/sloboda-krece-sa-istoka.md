@@ -7,6 +7,13 @@ pubDate: 2025-05-23T19:20:00.000Z
 heroImage: '@assets/images/za.webp'
 description: Зајечар бира слободу 24. маја! Придружите се великом протесту студената и будите део промене.
 timeline:
+  - naslov: Највећа бука у Зајечару
+    datum: 2025-05-24T19:53:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/1000196494.webp'
+      - '@assets/images/1000196492.webp'
+    tekst: ''
   - naslov: Модна ревија „Скини корупцију. Обуци слободу”
     datum: 2025-05-24T19:47:00.000Z
     videos: []
