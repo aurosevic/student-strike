@@ -12,7 +12,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/1000196405.webp'
-    tekst: Пратите пренос уживо колега из Новог Сада на сајту [blokada.info](https://blokada.info)
+    tekst: Пратите пренос уживо колега из Новог Сада на сајту [blokada.info](https://www.youtube.com/live/-qnU0zeX-uw)
   - naslov: Генерална проба групе Визељ
     datum: 2025-05-24T19:00:00.000Z
     videos: []
