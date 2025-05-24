@@ -7,6 +7,13 @@ pubDate: 2025-05-23T19:20:00.000Z
 heroImage: '@assets/images/za.webp'
 description: Зајечар бира слободу 24. маја! Придружите се великом протесту студената и будите део промене.
 timeline:
+  - naslov: Бубњари на главној бини
+    datum: 2025-05-24T15:15:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC9763.webp'
+      - '@assets/images/_DSC9762.webp'
+    tekst: ''
   - naslov: Говор на главној бини
     datum: 2025-05-24T14:23:00.000Z
     videos: []
