@@ -31,6 +31,16 @@ const akcije = defineCollection({
 	}),
 });
 
+
+const afere = defineCollection({
+	loader: glob({ base: './src/content/afere', pattern: '**/*.md' }),
+	schema: () => z.object({
+		link: z.string(),
+		title: z.string(),
+	}),
+});
+
+
 const linkovi = defineCollection({
 	loader: glob({ base: './src/content/linkovi', pattern: '*.md' }),
 	schema: () => z.object({
@@ -105,6 +115,7 @@ const ostalo = defineCollection({
 	schema: () => z.object({
 		naslov: z.string(),
 		akcije: z.string(),
+		afere: z.string(),
 		vesti: z.string(),
 		notifikacije: z.string(),
 		kontakt: z.string(),
@@ -114,4 +125,4 @@ const ostalo = defineCollection({
 	}),
 });
 
-export const collections = { vesti, akcije, linkovi, pocetna, zahtevi, faq, oblokadama, zaglavlje, ostalo };
+export const collections = { vesti, akcije, afere, linkovi, pocetna, zahtevi, faq, oblokadama, zaglavlje, ostalo };

@@ -12,16 +12,16 @@
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.11",
-    "@astrojs/sitemap": "^3.3.1",
+    "@astrojs/sitemap": "^3.4.0",
     "@astropub/md": "^1.0.0",
     "@iconify-json/mdi": "^1.2.3",
-    "@netlify/blobs": "^9.1.1",
-    "@netlify/functions": "^3.1.8",
+    "@netlify/blobs": "^9.1.2",
+    "@netlify/functions": "^3.1.9",
     "@oddbird/popover-polyfill": "^0.6.0",
     "@sveltia/cms": "^0.74.1",
-    "astro": "^5.7.12",
+    "astro": "^5.8.0",
     "astro-icon": "^1.1.5",
-    "sharp": "^0.34.1",
+    "sharp": "^0.34.2",
     "web-push": "^3.6.7"
   },
   "devDependencies": {

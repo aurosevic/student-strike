@@ -1,10 +1,12 @@
 ---
 naslov: Student Blockades
-vesti: News
-notifikacije: Enable notifications
 akcije: Public Actions
+vesti: News
+afere: Affairs
+notifikacije: Enable notifications
 kontakt: Contact
 live: Live
 studenti_u_blokadi: Main accunts
 pojedinacni_fakulteti: Faculty accounts
 ---
+

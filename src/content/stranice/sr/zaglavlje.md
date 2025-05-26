@@ -5,6 +5,8 @@ linkovi:
     link: /zahtevi
   - naziv: Вести
     link: /vesti
+  - naziv: Афере
+    link: /afere
   - naziv: Дневник акција
     link: /akcije
   - naziv: О Блокадама
@@ -12,3 +14,4 @@ linkovi:
   - naziv: Контакт
     link: /kontakt
 ---
+

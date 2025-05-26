@@ -94,7 +94,6 @@ collections:
     create: true
     i18n: true
     slug: '{{fields.link}}'
-
     sortable_fields:
       fields: [pubDate]
       default:
@@ -115,6 +114,18 @@ collections:
       - { label: "Datum akcije", name: "pubDate", widget: "datetime", picker_utc: true, i18n: "duplicate" }
       - { label: "Glavna slika", name: "heroImage", widget: "image", i18n: "duplicate" }
       - { label: "Opis", name: "description", widget: "text", i18n: true, required: false }
+      - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
+
+  - name: "afere"
+    label: "Afere"
+    icon: priority_high
+    folder: "src/content/afere"
+    create: true
+    i18n: true
+    slug: '{{fields.link}}'
+    fields:
+      - { label: "Link", name: "link", widget: "string", i18n: "duplicate" }
+      - { label: "Naslov", name: "title", widget: "string", i18n: true }
       - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
 
   - divider: true
@@ -215,6 +226,7 @@ collections:
           - { label: "Naslov", name: "naslov", widget: "string", i18n: true }
           - { label: "Akcije", name: "akcije", widget: "string", i18n: true }
           - { label: "Vesti", name: "vesti", widget: "string", i18n: true }
+          - { label: "Afere", name: "afere", widget: "string", i18n: true }
           - { label: "Uključi notifikacije", name: "notifikacije", widget: "string", i18n: true }
           - { label: "Kontakt", name: "kontakt", widget: "string", i18n: true }
           - { label: "Live", name: "live", widget: "string", i18n: true }

@@ -11,7 +11,7 @@ export const langs = ["sr", "sr-lat", "en", undefined];
 
 const fallbackLanguages = ["en", "sr-lat"];
 
-export async function collectionIDs<T extends "vesti" | "akcije">(
+export async function collectionIDs<T extends "vesti" | "akcije" | "afere">(
   collection: T
 ): Promise<string[]> {
   const all =
@@ -22,17 +22,21 @@ export async function collectionIDs<T extends "vesti" | "akcije">(
 
 }
 
-export async function collection<T extends "vesti" | "akcije">(
+export async function collection<T extends "vesti" | "akcije" | "afere">(
     collection: T,
     lang: string = "all"
 ): Promise<(CollectionEntry<T> & {lang: string})[]> {
     const ids = await collectionIDs(collection);
     const all = await Promise.all(ids.map(async id => await entry(collection, id, lang)));
 
-    return all.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+    if (all.length > 0 && typeof all[0].data.pubDate !== "undefined") {
+        return all.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+    }
+
+    return all.sort((a, b) => a.data.title.localeCompare(b.data.title));
 }
 
-export async function entry<T extends "vesti" | "akcije">(
+export async function entry<T extends "vesti" | "akcije" | "afere">(
   collection: T,
   entry: string,
   lang: string = "sr"
