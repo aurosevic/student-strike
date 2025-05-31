@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-05-31T15:00:00.000Z
 heroImage: '@assets/images/5897664996140238768.webp'
 timeline:
+  - naslov: Бициклисти и бајкери стигли у Шабац
+    datum: 2025-05-31T17:52:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/5.webp'
+      - '@assets/images/51-1.webp'
+    tekst: ''
   - naslov: Стигли су нам маратонци
     datum: 2025-05-31T17:20:00.000Z
     videos: []
