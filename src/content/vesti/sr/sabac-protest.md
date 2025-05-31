@@ -6,6 +6,13 @@ draft: uredjivanje
 pubDate: 2025-05-31T15:00:00.000Z
 heroImage: '@assets/images/5897664996140238768.webp'
 timeline:
+  - naslov: Још професора прича о животној средини
+    datum: 2025-05-31T18:50:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/54.webp'
+      - '@assets/images/55.webp'
+    tekst: Професори са Пољопривредног и Географског факултета придају значај заштити природних богатстава у Мачванском округу.
   - naslov: Професор Кризманић држи говор
     datum: 2025-05-31T18:25:00.000Z
     videos: []
