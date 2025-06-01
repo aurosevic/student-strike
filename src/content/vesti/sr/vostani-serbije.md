@@ -6,6 +6,16 @@ draft: uredjivanje
 pubDate: 2025-06-01T11:30:00.000Z
 heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER.webp'
 description: 'ДЕЦЕНТРАЛИЗАЦИЈА СЕ УЧИТАВА: Видимо се!'
+timeline:
+  - naslov: Шетња факултета у околини Булевара краља Александра
+    datum: 2025-06-01T17:54:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/CHE08772.webp'
+      - '@assets/images/CHE08792.webp'
+      - '@assets/images/CHE08798.webp'
+      - '@assets/images/CHE08808.webp'
+    tekst: ''
 ---
 ### ХОЋЕМО ИЗБОРЕ!
 
