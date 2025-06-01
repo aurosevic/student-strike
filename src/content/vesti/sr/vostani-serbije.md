@@ -16,6 +16,8 @@ timeline:
       - '@assets/images/c2.webp'
       - '@assets/images/c3.webp'
       - '@assets/images/c4.webp'
+      - '@assets/images/cbg.webp'
+      - '@assets/images/cc.webp'
     tekst: ''
   - naslov: Полагање венца за настрадале у паду надстрешнице у Новом Саду
     datum: 2025-06-01T20:56:00.000Z
