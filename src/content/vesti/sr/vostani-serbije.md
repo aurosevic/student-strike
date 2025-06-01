@@ -1,7 +1,7 @@
 ---
 link: vostani-serbije
 title: Востани Сербије
-live: false
+live: true
 draft: uredjivanje
 pubDate: 2025-06-01T11:30:00.000Z
 heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER.webp'
