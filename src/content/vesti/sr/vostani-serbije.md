@@ -2,13 +2,12 @@
 link: vostani-serbije
 title: Востани Сербије
 live: true
-live_embed: AvmM8KI209U
 draft: uredjivanje
 pubDate: 2025-06-01T11:30:00.000Z
 heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER-1.webp'
 description: 'ДЕЦЕНТРАЛИЗАЦИЈА СЕ УЧИТАВА: Видимо се!'
 timeline:
-  - naslov: Шетња факултета у околини Булевара краља Александра
+  - naslov: Шетња факултета у околини Булевара краља Александра ка Бранковом мосту
     datum: 2025-06-01T17:54:00.000Z
     videos: []
     slike:
@@ -17,6 +16,7 @@ timeline:
       - '@assets/images/CHE08798.webp'
       - '@assets/images/CHE08808.webp'
     tekst: ''
+live_embed: AvmM8KI209U
 ---
 ## ХОЋЕМО ИЗБОРЕ!
 
