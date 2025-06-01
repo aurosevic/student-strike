@@ -7,6 +7,12 @@ pubDate: 2025-06-01T11:30:00.000Z
 heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER-1.webp'
 description: 'ДЕЦЕНТРАЛИЗАЦИЈА СЕ УЧИТАВА: Видимо се!'
 timeline:
+  - naslov: Чачак
+    datum: 2025-06-01T19:41:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/ca.webp'
+    tekst: ''
   - naslov: Бранков мост
     datum: 2025-06-01T19:33:00.000Z
     videos:
