@@ -7,6 +7,12 @@ pubDate: 2025-06-01T11:30:00.000Z
 heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER-1.webp'
 description: 'ДЕЦЕНТРАЛИЗАЦИЈА СЕ УЧИТАВА: Видимо се!'
 timeline:
+  - naslov: Хор у Новом Саду
+    datum: 2025-06-01T19:46:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/horns.webp'
+    tekst: ''
   - naslov: Чачак
     datum: 2025-06-01T19:41:00.000Z
     videos: []
