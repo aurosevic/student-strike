@@ -2,11 +2,19 @@
 link: vostani-serbije
 title: Востани Сербије
 live: true
+live_embed: AvmM8KI209U
 draft: uredjivanje
 pubDate: 2025-06-01T11:30:00.000Z
 heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER-1.webp'
 description: 'ДЕЦЕНТРАЛИЗАЦИЈА СЕ УЧИТАВА: Видимо се!'
 timeline:
+  - naslov: Шетња до Железничке станице у Новом Саду
+    datum: 2025-06-01T20:41:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/nszs0.webp'
+      - '@assets/images/nszs.webp'
+    tekst: ''
   - naslov: Говор у преко 30 градова
     datum: 2025-06-01T20:03:00.000Z
     videos: []
@@ -109,7 +117,6 @@ timeline:
       - '@assets/images/CHE08798.webp'
       - '@assets/images/CHE08808.webp'
     tekst: ''
-live_embed: AvmM8KI209U
 ---
 ## ХОЋЕМО ИЗБОРЕ!
 
