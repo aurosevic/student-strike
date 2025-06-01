@@ -7,6 +7,12 @@ pubDate: 2025-06-01T11:30:00.000Z
 heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER-1.webp'
 description: 'ДЕЦЕНТРАЛИЗАЦИЈА СЕ УЧИТАВА: Видимо се!'
 timeline:
+  - naslov: Бранков мост
+    datum: 2025-06-01T19:33:00.000Z
+    videos:
+      - rtgrlaGclu8
+    slike: []
+    tekst: ''
   - naslov: Говор студента у Новом Саду
     datum: 2025-06-01T19:18:00.000Z
     videos: []
