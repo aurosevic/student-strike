@@ -19,7 +19,7 @@ timeline:
     slike:
       - '@assets/images/pancevo.webp'
     tekst: ''
-  - naslov: Говор студентиње у Сомбору
+  - naslov: Говор студенткиње у Сомбору
     datum: 2025-06-01T18:48:00.000Z
     videos: []
     slike:
