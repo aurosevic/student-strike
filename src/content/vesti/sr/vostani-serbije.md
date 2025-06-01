@@ -11,7 +11,7 @@ timeline:
     datum: 2025-06-01T19:46:00.000Z
     videos: []
     slike:
-      - '@assets/images/horns.webp'
+      - '@assets/images/nshor.webp'
     tekst: ''
   - naslov: Чачак
     datum: 2025-06-01T19:41:00.000Z
