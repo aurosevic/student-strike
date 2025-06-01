@@ -4,7 +4,7 @@ title: Востани Сербије
 live: true
 draft: uredjivanje
 pubDate: 2025-06-01T11:30:00.000Z
-heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER.webp'
+heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER-1.webp'
 description: 'ДЕЦЕНТРАЛИЗАЦИЈА СЕ УЧИТАВА: Видимо се!'
 timeline:
   - naslov: Шетња факултета у околини Булевара краља Александра
