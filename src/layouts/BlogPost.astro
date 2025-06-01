@@ -9,7 +9,7 @@ import { file } from "@scripts/i18n";
 
 type Props = CollectionEntry<"vesti">["data"] & {lang: string, live?: boolean};
 
-const { lang, title, pubDate, updatedDate, heroImage, live = false, timeline } = Astro.props;
+const { lang, title, pubDate, updatedDate, heroImage, live = false, live_embed, timeline } = Astro.props;
 
 const { lang: expectedLang } = Astro.params;
 
@@ -46,6 +46,17 @@ const { frontmatter } = await file("ostalo", lang);
         <h1>{title}</h1>
         <hr />
       </div>
+
+      {live_embed &&
+        <div class="live">
+          <strong>{frontmatter.pratite_live}</strong>
+          <br />
+          <iframe
+            src={`https://www.youtube-nocookie.com/embed/${live_embed}`} 
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen 
+          />
+        </div>
+      }
       
       <Timeline {timeline} />
       
@@ -115,5 +126,13 @@ const { frontmatter } = await file("ostalo", lang);
     .title h1 {
       font-size: 8vw;
     }
+  }
+
+  iframe {
+    max-width: 600px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: none;
+    border-radius: 8px;
   }
 </style>

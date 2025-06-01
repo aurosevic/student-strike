@@ -8,5 +8,6 @@ kontakt: Contact
 live: Live
 studenti_u_blokadi: Main accunts
 pojedinacni_fakulteti: Faculty accounts
+pratite_live: Watch us live
 ---
 

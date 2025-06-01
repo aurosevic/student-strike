@@ -52,6 +52,7 @@ collections:
       - { label: "Link", name: "link", widget: "string", i18n: "duplicate" }
       - { label: "Naslov", name: "title", widget: "string", i18n: true }
       - { label: "Lajv", name: "live", widget: "boolean", i18n: "duplicate", default: false }
+      - { label: "Lajv ID", name: "live_embed", widget: "string", i18n: "duplicate", required: false }
       - label: "Status"
         name: "draft"
         widget: "select"
@@ -232,6 +233,7 @@ collections:
           - { label: "Live", name: "live", widget: "string", i18n: true }
           - { label: "Studenti u blokadi", name: "studenti_u_blokadi", widget: "string", i18n: true }
           - { label: "Kontakti pojedinačnih fakulteta", name: "pojedinacni_fakulteti", widget: "string", i18n: true }
+          - { label: "Pratite live", name: "pratite_live", widget: "string", i18n: true }
 
   - name: "linkovi"
     label: "Linkovi"
