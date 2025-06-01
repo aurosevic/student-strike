@@ -8,6 +8,15 @@ pubDate: 2025-06-01T11:30:00.000Z
 heroImage: '@assets/images/SAD-JE-STVARNO-FINALNA-VER-1.webp'
 description: 'ДЕЦЕНТРАЛИЗАЦИЈА СЕ УЧИТАВА: Видимо се!'
 timeline:
+  - naslov: 16 минута тишине
+    datum: 2025-06-01T21:00:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/c.webp'
+      - '@assets/images/c2.webp'
+      - '@assets/images/c3.webp'
+      - '@assets/images/c4.webp'
+    tekst: ''
   - naslov: Полагање венца за настрадале у паду надстрешнице у Новом Саду
     datum: 2025-06-01T20:56:00.000Z
     videos: []
