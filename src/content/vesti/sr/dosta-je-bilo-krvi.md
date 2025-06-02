@@ -19,4 +19,12 @@ description: Скуп подршке испред Правног факулте�
 
 ![](@assets/images/CHE00750.webp)
 
+‎ 
+
+![](@assets/images/CHE00820.webp)
+
+‎ 
+
+![](@assets/images/CHE00805.webp)
+
 Сликао колега [@tadic\_raw](https://www.instagram.com/tadic_raw/).
