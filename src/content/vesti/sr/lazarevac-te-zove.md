@@ -7,7 +7,7 @@ pubDate: 2025-06-09T16:20:00.000Z
 heroImage: '@assets/images/la.webp'
 description: Студенти из Лазаревца вас зову на протест 10.06.
 timeline:
-  - naslov: Друга тура бициклиста
+  - naslov: Дефиле бициклиста из Ваљева
     datum: 2025-06-10T19:00:00.000Z
     videos: []
     slike:
