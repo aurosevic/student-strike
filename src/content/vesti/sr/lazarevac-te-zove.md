@@ -7,6 +7,15 @@ pubDate: 2025-06-09T16:20:00.000Z
 heroImage: '@assets/images/la.webp'
 description: Студенти из Лазаревца вас зову на протест 10.06.
 timeline:
+  - naslov: Rulja Inc.
+    datum: 2025-06-10T19:07:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7924.webp'
+      - '@assets/images/_DSC7920.webp'
+      - '@assets/images/_DSC7915.webp'
+      - '@assets/images/_DSC7906.webp'
+    tekst: ''
   - naslov: Дефиле бициклиста из Ваљева
     datum: 2025-06-10T19:00:00.000Z
     videos: []
