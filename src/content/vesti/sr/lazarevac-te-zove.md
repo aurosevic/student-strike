@@ -7,6 +7,27 @@ pubDate: 2025-06-09T16:20:00.000Z
 heroImage: '@assets/images/la.webp'
 description: Студенти из Лазаревца вас зову на протест 10.06.
 timeline:
+  - naslov: Говор ветерана
+    datum: 2025-06-10T17:56:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7800.webp'
+      - '@assets/images/_DSC7798.webp'
+    tekst: ''
+  - naslov: Говор Александра Харића, пензионера и бившег радника Колубаре
+    datum: 2025-06-10T17:40:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7772.webp'
+      - '@assets/images/_DSC7768.webp'
+    tekst: Публика није остала равнодушна након рецитовања песама које су написали њихови суграђани - Душко Лесендрић и Предраг Патијаревић Патак.
+  - naslov: Ветерани
+    datum: 2025-06-10T17:40:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7784.webp'
+      - '@assets/images/_DSC7781.webp'
+    tekst: ''
   - naslov: Говор Горана Перишића, радника Колубаре
     datum: 2025-06-10T17:25:00.000Z
     videos: []
