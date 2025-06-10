@@ -7,6 +7,26 @@ pubDate: 2025-06-09T16:20:00.000Z
 heroImage: '@assets/images/la.webp'
 description: Студенти из Лазаревца вас зову на протест 10.06.
 timeline:
+  - naslov: No More Pasta DJ
+    datum: 2025-06-10T15:05:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7599.webp'
+      - '@assets/images/_DSC7601_1.webp'
+    tekst: ''
+  - naslov: Паб квиз
+    datum: 2025-06-10T15:04:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7593_1.webp'
+      - '@assets/images/_DSC7592_1.webp'
+    tekst: ''
+  - naslov: Ширење банера
+    datum: 2025-06-10T15:00:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7588_1.webp'
+    tekst: ''
   - naslov: Турнир у шаху
     datum: 2025-06-10T14:30:00.000Z
     videos: []
