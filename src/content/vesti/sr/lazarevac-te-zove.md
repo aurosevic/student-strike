@@ -1,7 +1,7 @@
 ---
 link: lazarevac-te-zove
 title: Лазаревац те зове
-live: false
+live: true
 draft: uredjivanje
 pubDate: 2025-06-09T16:20:00.000Z
 heroImage: '@assets/images/la.webp'
