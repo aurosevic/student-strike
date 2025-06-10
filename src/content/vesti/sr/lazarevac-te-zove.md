@@ -7,6 +7,13 @@ pubDate: 2025-06-09T16:20:00.000Z
 heroImage: '@assets/images/la.webp'
 description: Студенти из Лазаревца вас зову на протест 10.06.
 timeline:
+  - naslov: Турнир у шаху
+    datum: 2025-06-10T14:30:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7576_1.webp'
+      - '@assets/images/_DSC7571_1.webp'
+    tekst: Турнир у шаху је само један од хуманитарних турнира који се одржава данас. Очекују вас још три - у стоном тенису, пикаду и паб квиз.
   - naslov: 18 минута тишине
     datum: 2025-06-10T11:52:00.000Z
     videos: []
