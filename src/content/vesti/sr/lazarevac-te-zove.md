@@ -7,6 +7,15 @@ pubDate: 2025-06-09T16:20:00.000Z
 heroImage: '@assets/images/la.webp'
 description: Студенти из Лазаревца вас зову на протест 10.06.
 timeline:
+  - naslov: Дочек бициклиста
+    datum: 2025-06-10T15:26:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7650.webp'
+      - '@assets/images/_DSC7647.webp'
+      - '@assets/images/_DSC7648.webp'
+      - '@assets/images/_DSC7645.webp'
+    tekst: ''
   - naslov: No More Pasta DJ
     datum: 2025-06-10T15:05:00.000Z
     videos: []
