@@ -6,6 +6,20 @@ draft: uredjivanje
 pubDate: 2025-06-09T16:20:00.000Z
 heroImage: '@assets/images/la.webp'
 description: Студенти из Лазаревца вас зову на протест 10.06.
+timeline:
+  - naslov: 18 минута тишине
+    datum: 2025-06-10T11:52:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7506.webp'
+      - '@assets/images/_DSC7490.webp'
+      - '@assets/images/_DSC7489.webp'
+      - '@assets/images/_DSC7485.webp'
+      - '@assets/images/_DSC7469.webp'
+      - '@assets/images/_DSC7448.webp'
+      - '@assets/images/_DSC7466.webp'
+      - '@assets/images/_DSC7442.webp'
+    tekst: ''
 ---
 Студенти из Лазаревца вас позивају на протест 10.06.
 
