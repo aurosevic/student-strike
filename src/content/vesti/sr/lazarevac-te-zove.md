@@ -7,6 +7,15 @@ pubDate: 2025-06-09T16:20:00.000Z
 heroImage: '@assets/images/la.webp'
 description: Студенти из Лазаревца вас зову на протест 10.06.
 timeline:
+  - naslov: Друга тура бициклиста
+    datum: 2025-06-10T19:00:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC7893.webp'
+      - '@assets/images/_DSC7888.webp'
+      - '@assets/images/_DSC7881.webp'
+      - '@assets/images/_DSC7873.webp'
+    tekst: ''
   - naslov: 18 минута тишине
     datum: 2025-06-10T18:00:00.000Z
     videos: []
