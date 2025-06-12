@@ -11,6 +11,4 @@ description: Већ 5 дана студенти и грађани блокира
 
 Позивамо све људе који су у могућности да дођу и помогну у блокади суда у улици Сутјеска 3! До испуњења захтева!
 
-‎ 
-
 ![](@assets/images/sud1.webp)![](@assets/images/sud3.webp)![](@assets/images/sud4.webp)![](@assets/images/sud2.webp)
