@@ -164,6 +164,14 @@ collections:
         fields:
           - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
 
+      - label: "Dijaspora"
+        name: "dijaspora"
+        file: "src/content/stranice/{{locale}}/dijaspora.md"
+        create: false
+        i18n: true
+        fields:
+          - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
+
       - label: "Zahtevi"
         name: "zahtevi"
         file: "src/content/stranice/{{locale}}/zahtevi.md"

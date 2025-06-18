@@ -1,0 +1,22 @@
+---
+import Base from "@layouts/Base.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
+
+import { langs, file } from "@scripts/i18n";
+export async function getStaticPaths() {
+  return langs.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+if (typeof lang === "undefined") {
+  return Astro.rewrite(`/sr${Astro.url.pathname}`);
+}
+
+const { Content } = await file("dijaspora", lang);
+---
+
+<Base {lang} title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <section>
+    <Content />
+  </section>
+</Base>

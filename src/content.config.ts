@@ -100,6 +100,11 @@ const oblokadama = defineCollection({
 	schema: () => z.object({}),
 });
 
+const dijaspora = defineCollection({
+	loader: glob({ base: './src/content/stranice', pattern: '**/dijaspora.md' }),
+	schema: () => z.object({}),
+});
+
 const zaglavlje = defineCollection({
 	loader: glob({ base: './src/content/stranice', pattern: '**/zaglavlje.md' }),
 	schema: () => z.object({
@@ -127,4 +132,4 @@ const ostalo = defineCollection({
 	}),
 });
 
-export const collections = { vesti, akcije, afere, linkovi, pocetna, zahtevi, faq, oblokadama, zaglavlje, ostalo };
+export const collections = { vesti, akcije, afere, linkovi, pocetna, zahtevi, faq, oblokadama, dijaspora, zaglavlje, ostalo };
