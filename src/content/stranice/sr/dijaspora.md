@@ -83,3 +83,7 @@
 
 CeSID-овом водичу за заштиту изборних права можете приступири путем следећег линка:
 [https://www.cesid.rs/wp-content/uploads/2021/06/Vodič-za-zaštitu-izbornog-prava.pdf](https://www.cesid.rs/wp-content/uploads/2021/06/Vodič-za-zaštitu-izbornog-prava.pdf)
+
+## Информатор
+
+ПДФ верзију ове странице можете наћи [овде](/информатор.pdf).

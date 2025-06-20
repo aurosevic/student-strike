@@ -9,6 +9,8 @@ linkovi:
     link: /afere
   - naziv: Дневник акција
     link: /akcije
+  - naziv: Дијаспора
+    link: /dijaspora
   - naziv: О Блокадама
     link: /o-blokadama
   - naziv: Контакт
