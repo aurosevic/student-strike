@@ -1,3 +1,6 @@
+---
+title: Dijaspora | studentske blokade
+---
 # Glasanje u inostranstvu
 
 ## Zašto je bitno prijaviti se za glasanje i izaći na izbore
@@ -60,7 +63,7 @@ Ministarstvo spoljnih poslova dostavlja RIK-u predlog za određivanje biračkih 
 
 Više informacija o načinu utvrđivanja predloga biračkih mesta, njihovoj pristupačnosti i karakteristikama objekata u kojima se nalaze, možete naći u [Uputstvu o načinu određivanja biračkih mesta](http://demo.paragraf.rs/demo/combined/Old/t/t2023_10/SG_091_2023_002.htm) ("Sl. glasnik RS", br. 91/2023 - prečišćen tekst), a na narednom linku se nalaze obrasci koje Ministarstvo spoljnih poslova treba da popuni prilikom podnošenja predloga RIK-u:
 
-[https://www.eupropisi.com/dokumenti/SG\_091\_2023\_002.docx](https://www.eupropisi.com/dokumenti/SG_091_2023_002.docx)
+[https://www.eupropisi.com/dokumenti/SG_091_2023_002.docx](https://www.eupropisi.com/dokumenti/SG_091_2023_002.docx)
 
 ## Na dan izbora
 
@@ -83,3 +86,7 @@ Nepravilnost možete prijaviti najkasinije 24 časa od momenta kada je ona učin
 
 CeSID-ovom vodiču za zaštitu izbornih prava možete pristupiri putem sledećeg linka:
 [https://www.cesid.rs/wp-content/uploads/2021/06/Vodič-za-zaštitu-izbornog-prava.pdf](https://www.cesid.rs/wp-content/uploads/2021/06/Vodič-za-zaštitu-izbornog-prava.pdf)
+
+## Informator
+
+PDF verziju ove stranice možete naći [ovde](/informator.pdf).

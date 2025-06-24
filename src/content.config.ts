@@ -18,7 +18,7 @@ const vesti = defineCollection({
 			videos: z.string().array().optional(),
 			slike: image().array(),
 			tekst: z.string().optional()
-		}).array().optional()
+		}).array().optional(),
 	}),
 });
 
@@ -28,10 +28,9 @@ const akcije = defineCollection({
 		link: z.string(),
 		title: z.string(),
 		pubDate: z.coerce.date(),
-		heroImage: image()
+		heroImage: image(),
 	}),
 });
-
 
 const afere = defineCollection({
 	loader: glob({ base: './src/content/afere', pattern: '**/*.md' }),
@@ -41,10 +40,10 @@ const afere = defineCollection({
 	}),
 });
 
-
 const linkovi = defineCollection({
 	loader: glob({ base: './src/content/linkovi', pattern: '*.md' }),
 	schema: () => z.object({
+		title: z.string(),
 		link: z.string(),
 		linkovi: z.object({
 			ikonica: z.enum([
@@ -52,7 +51,7 @@ const linkovi = defineCollection({
 				"facebook", "youtube", "viber", "newspaper", "hand-coin"
 			]),
 			naslov: z.string(),
-			link: z.string()
+			link: z.string(),
 		}).array()
 	}),
 });
@@ -76,11 +75,12 @@ const pocetna = defineCollection({
 const zahtevi = defineCollection({
 	loader: glob({ base: './src/content/stranice', pattern: '**/zahtevi.md' }),
 	schema: () => z.object({
+		title: z.string(),
 		naslov: z.string(),
 		zahtevi: z.object({
 			original: z.string(),
-			konkretizacija: z.string()
-		}).array()
+			konkretizacija: z.string(),
+		}).array(),
 	}),
 });
 
@@ -90,19 +90,23 @@ const faq = defineCollection({
 		naslov: z.string(),
 		pitanja: z.object({
 			pitanje: z.string(),
-			odgovor: z.string()
+			odgovor: z.string(),
 		}).array()
 	}),
 });
 
 const oblokadama = defineCollection({
 	loader: glob({ base: './src/content/stranice', pattern: '**/o-blokadama.md' }),
-	schema: () => z.object({}),
+	schema: () => z.object({
+		title: z.string(),
+	}),
 });
 
 const dijaspora = defineCollection({
 	loader: glob({ base: './src/content/stranice', pattern: '**/dijaspora.md' }),
-	schema: () => z.object({}),
+	schema: () => z.object({
+		title: z.string(),
+	}),
 });
 
 const zaglavlje = defineCollection({
@@ -111,7 +115,7 @@ const zaglavlje = defineCollection({
 		naslov: z.string(),
 		linkovi: z.object({
 			naziv: z.string(),
-			link: z.string()
+			link: z.string(),
 		}).array()
 	}),
 });

@@ -32,7 +32,7 @@ const linkovi = Astro.props;
 const live = (await collection("vesti", lang)).filter((vest) => vest.data.live);
 ---
 
-<Base lang={linkovi.lang} title={SITE_TITLE} description={SITE_DESCRIPTION}>
+<Base lang={linkovi.lang} title={linkovi.data.title} description={SITE_DESCRIPTION}>
     <ul>
         {live.map(live =>
             <li>

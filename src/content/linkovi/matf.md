@@ -1,4 +1,5 @@
 ---
+title: Linkovi | Matematički fakultet
 link: matf
 linkovi:
   - ikonica: web

@@ -162,6 +162,7 @@ collections:
         create: false
         i18n: true
         fields:
+          - { label: "Title", name: "title", widget: "string", i18n: true }
           - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
 
       - label: "Dijaspora"
@@ -170,6 +171,7 @@ collections:
         create: false
         i18n: true
         fields:
+          - { label: "Title", name: "title", widget: "string", i18n: true }
           - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
 
       - label: "Zahtevi"
@@ -178,6 +180,7 @@ collections:
         create: false
         i18n: true
         fields:
+          - { label: "Title", name: "title", widget: "string", i18n: true }
           - { label: "Naslov", name: "naslov", widget: "string", i18n: true }
           - label: "Zahtevi"
             label_singular: 'Zahtev'
@@ -250,6 +253,10 @@ collections:
     create: true
     identifier_field: link
     fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
       - label: "link"
         name: "link"
         widget: "string"
