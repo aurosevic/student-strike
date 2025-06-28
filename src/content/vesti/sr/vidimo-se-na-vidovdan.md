@@ -13,7 +13,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/koka.webp'
-    tekst: ''
+    tekst: '> Никад нећемо одустати и нећете копати!'
   - naslov: Драган Јовановић
     datum: 2025-06-28T21:31:00.000Z
     videos: []
