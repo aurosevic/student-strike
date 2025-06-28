@@ -8,6 +8,12 @@ pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
 timeline:
+  - naslov: Блок песама
+    datum: 2025-06-28T20:27:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/blok.webp'
+    tekst: 'Имате прилику да чујете: Тамо далеко.'
   - naslov: Говор Ненада Станића, јунака са Кошара
     datum: 2025-06-28T20:14:00.000Z
     videos: []
