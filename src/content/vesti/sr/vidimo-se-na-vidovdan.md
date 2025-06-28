@@ -8,6 +8,22 @@ pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
 timeline:
+  - naslov: Златко Кокановић
+    datum: 2025-06-28T21:34:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
+  - naslov: Драган Јовановић
+    datum: 2025-06-28T21:31:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/gagi.webp'
+    tekst: |-
+      > Изгледа да немам времена.
+
+      Отпевао је _Зидарева љубав._
+
+      > Никад тако драга волети те неће!
   - naslov: Говор колегe
     datum: 2025-06-28T21:28:00.000Z
     videos: []
