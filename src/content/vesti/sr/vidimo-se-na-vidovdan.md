@@ -1,7 +1,7 @@
 ---
 link: vidimo-se-na-vidovdan
 title: Видимо се на Видовдан
-live: true
+live: false
 live_embed: y5y4sf0yOOU
 draft: uredjivanje
 pubDate: 2025-06-28T02:30:00.000Z
