@@ -16,6 +16,8 @@ timeline:
       Инстаграм: [@studenti_u_blokadi](https://www.instagram.com/studenti_u_blokadi/)
 
       Твитер/X: [@studentblokade](https://x.com/studentblokade)
+
+      Фејсбук: [Studenti u blokadi UB](https://www.facebook.com/p/Studenti-u-blokadi-UB-61571631694236/?locale=sr_RS)
   - naslov: Завршна реч
     datum: 2025-06-28T21:46:00.000Z
     videos: []
