@@ -13,7 +13,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/ak6.webp'
-    tekst: ''
+    tekst: '> Ово није спринт, него маратон.'
   - naslov: Други студентски говор
     datum: 2025-06-28T20:47:00.000Z
     videos: []
