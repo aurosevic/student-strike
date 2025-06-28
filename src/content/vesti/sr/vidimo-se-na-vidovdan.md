@@ -6,6 +6,18 @@ draft: uredjivanje
 pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
+timeline:
+  - naslov: Поворка ка Славији
+    datum: 2025-06-28T17:22:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/Tadic-1722.webp'
+      - '@assets/images/Tadic-1723.webp'
+      - '@assets/images/Tadic-1721.webp'
+      - '@assets/images/Tadic-1720.webp'
+      - '@assets/images/Tadic-1717.webp'
+      - '@assets/images/Tadic-1716.webp'
+    tekst: ''
 ---
 ### Сатница
 
