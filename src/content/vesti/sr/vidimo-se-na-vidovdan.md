@@ -11,7 +11,8 @@ timeline:
   - naslov: Говор ректора Владана Ђокића
     datum: 2025-06-28T20:37:00.000Z
     videos: []
-    slike: []
+    slike:
+      - '@assets/images/rektor.webp'
     tekst: ''
   - naslov: Блок песама
     datum: 2025-06-28T20:27:00.000Z
