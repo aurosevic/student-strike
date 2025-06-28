@@ -8,6 +8,11 @@ pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
 timeline:
+  - naslov: Интонирање Химне Србије и развијање народне заставе
+    datum: 2025-06-28T19:27:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: 16 минута тишине
     datum: 2025-06-28T19:11:00.000Z
     videos: []
