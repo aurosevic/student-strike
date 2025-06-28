@@ -8,6 +8,12 @@ pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
 timeline:
+  - naslov: Говор Горана Перишића
+    datum: 2025-06-28T21:40:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/eps.webp'
+    tekst: ''
   - naslov: Златко Кокановић
     datum: 2025-06-28T21:34:00.000Z
     videos: []
