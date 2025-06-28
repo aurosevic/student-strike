@@ -35,6 +35,13 @@ timeline:
       - '@assets/images/photo_2025-06-28_18-11-39.webp'
       - '@assets/images/photo_2025-06-28_18-11-45.webp'
     tekst: ''
+  - naslov: Почетак прорама
+    datum: 2025-06-28T18:00:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/_DSC8449.webp'
+      - '@assets/images/_DSC8445.webp'
+    tekst: ''
   - naslov: Поворка ка Славији
     datum: 2025-06-28T17:22:00.000Z
     videos: []
