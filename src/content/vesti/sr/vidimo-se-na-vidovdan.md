@@ -8,6 +8,12 @@ pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
 timeline:
+  - naslov: Говор кошаркаша Бодироге
+    datum: 2025-06-28T21:21:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/bogiroga.webp'
+    tekst: ''
   - naslov: Говор академика Вукосавића
     datum: 2025-06-28T21:08:00.000Z
     videos: []
