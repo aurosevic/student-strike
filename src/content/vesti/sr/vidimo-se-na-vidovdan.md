@@ -12,7 +12,7 @@ timeline:
     datum: 2025-06-28T20:06:00.000Z
     videos: []
     slike:
-      - '@assets/images/lompar.webp'
+      - '@assets/images/lomparr.webp'
     tekst: ''
   - naslov: Додела Црвеног божура
     datum: 2025-06-28T19:58:00.000Z
