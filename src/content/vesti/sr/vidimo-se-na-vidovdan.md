@@ -11,7 +11,8 @@ timeline:
   - naslov: Говор Мило Ломпара, професора Филолошког факултета
     datum: 2025-06-28T20:06:00.000Z
     videos: []
-    slike: []
+    slike:
+      - '@assets/images/lompar.webp'
     tekst: ''
   - naslov: Додела Црвеног божура
     datum: 2025-06-28T19:58:00.000Z
