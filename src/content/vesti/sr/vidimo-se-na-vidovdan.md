@@ -13,7 +13,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/np-1.webp'
-    tekst: ''
+    tekst: '> Победићемо!'
   - naslov: Говор кошаркаша Бодироге
     datum: 2025-06-28T21:21:00.000Z
     videos: []
