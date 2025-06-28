@@ -8,6 +8,11 @@ pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
 timeline:
+  - naslov: Говор ректора Владана Ђокића
+    datum: 2025-06-28T20:37:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: Блок песама
     datum: 2025-06-28T20:27:00.000Z
     videos: []
