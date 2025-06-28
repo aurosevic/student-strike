@@ -13,7 +13,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/rektor.webp'
-    tekst: ''
+    tekst: '> Студенти су својом храбром и мирном побуном повезали све нас у заједничку искру.'
   - naslov: Блок песама
     datum: 2025-06-28T20:27:00.000Z
     videos: []
