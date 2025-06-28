@@ -8,6 +8,14 @@ pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
 timeline:
+  - naslov: Шаљите нам снимке насиља полиције и батинаша над грађанима на друштвене мреже студената у блокади
+    datum: 2025-06-28T22:25:00.000Z
+    videos: []
+    slike: []
+    tekst: |-
+      Инстаграм: [@studenti_u_blokadi](https://www.instagram.com/studenti_u_blokadi/)
+
+      Твитер/X: [@studentblokade](https://x.com/studentblokade)
   - naslov: Завршна реч
     datum: 2025-06-28T21:46:00.000Z
     videos: []
