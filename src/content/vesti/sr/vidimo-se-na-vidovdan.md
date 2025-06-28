@@ -11,7 +11,8 @@ timeline:
   - naslov: Златко Кокановић
     datum: 2025-06-28T21:34:00.000Z
     videos: []
-    slike: []
+    slike:
+      - '@assets/images/koka.webp'
     tekst: ''
   - naslov: Драган Јовановић
     datum: 2025-06-28T21:31:00.000Z
