@@ -1,7 +1,7 @@
 ---
 link: vidimo-se-na-vidovdan
 title: Видимо се на Видовдан
-live: false
+live: true
 draft: uredjivanje
 pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
