@@ -8,6 +8,11 @@ pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
 timeline:
+  - naslov: Додела Црвеног божура
+    datum: 2025-06-28T19:58:00.000Z
+    videos: []
+    slike: []
+    tekst: Студенти у блокади су добитници Косовског црвеног божура.
   - naslov: Први студентски говор
     datum: 2025-06-28T19:30:00.000Z
     videos: []
