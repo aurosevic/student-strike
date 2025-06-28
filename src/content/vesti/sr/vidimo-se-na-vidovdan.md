@@ -11,7 +11,8 @@ timeline:
   - naslov: Додела Црвеног божура
     datum: 2025-06-28T19:58:00.000Z
     videos: []
-    slike: []
+    slike:
+      - '@assets/images/bozur.webp'
     tekst: Студенти у блокади су добитници Косовског црвеног божура.
   - naslov: Први студентски говор
     datum: 2025-06-28T19:30:00.000Z
