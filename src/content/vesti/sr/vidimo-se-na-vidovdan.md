@@ -13,7 +13,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/bogiroga.webp'
-    tekst: ''
+    tekst: '> Видовдан је непристанак на тиранију.'
   - naslov: Говор академика Вукосавића
     datum: 2025-06-28T21:08:00.000Z
     videos: []
