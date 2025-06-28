@@ -13,7 +13,7 @@ timeline:
     videos: []
     slike:
       - '@assets/images/nenad.webp'
-    tekst: ''
+    tekst: '> Упамтите, ову младост морамо да сачувати по сваку цену!'
   - naslov: Говор Мило Ломпара, професора Филолошког факултета
     datum: 2025-06-28T20:06:00.000Z
     videos: []
