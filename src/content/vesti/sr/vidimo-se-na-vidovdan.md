@@ -12,7 +12,7 @@ timeline:
     datum: 2025-06-28T21:08:00.000Z
     videos: []
     slike:
-      - '@assets/images/akademik.webp'
+      - '@assets/images/ak6.webp'
     tekst: ''
   - naslov: Други студентски говор
     datum: 2025-06-28T20:47:00.000Z
