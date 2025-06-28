@@ -8,7 +8,7 @@ pubDate: 2025-06-28T02:30:00.000Z
 heroImage: '@assets/images/vidovdan(1).webp'
 description: Окупљање на Тргу Славија у 18 часова, 28. јуна 2025.
 timeline:
-  - naslov: Говор колеге са Нишког универзитета, из Новог Пазара
+  - naslov: Говор колегe
     datum: 2025-06-28T21:28:00.000Z
     videos: []
     slike:
