@@ -6,6 +6,11 @@ draft: uredjivanje
 pubDate: 2025-06-29T22:20:00.000Z
 heroImage: '@assets/images/rasirili.webp'
 timeline:
+  - naslov: 16 минута тишине
+    datum: 2025-06-29T23:52:00.000Z
+    videos: []
+    slike: []
+    tekst: ''
   - naslov: Испуните захтеве!
     datum: 2025-06-29T22:49:00.000Z
     videos: []
