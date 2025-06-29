@@ -5,6 +5,13 @@ live: true
 draft: uredjivanje
 pubDate: 2025-06-29T22:20:00.000Z
 heroImage: '@assets/images/rasirili.webp'
+timeline:
+  - naslov: Испуните захтеве!
+    datum: 2025-06-29T22:49:00.000Z
+    videos: []
+    slike:
+      - '@assets/images/PXL_20250629_204820740.MP.webp'
+    tekst: ''
 ---
 #### Београд
 
