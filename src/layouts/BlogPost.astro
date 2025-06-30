@@ -159,6 +159,19 @@ const { frontmatter } = await file("ostalo", lang);
 <script>
   import leaflet from "leaflet";
 
+  import markerIcon2x from 'leaflet/dist/images/marker-icon-2x.png';
+  import markerIcon from 'leaflet/dist/images/marker-icon.png';
+  import markerShadow from 'leaflet/dist/images/marker-shadow.png';
+
+  const marker_icon = leaflet.icon({
+    iconSize: [25, 41],
+    iconAnchor: [10, 41],
+    popupAnchor: [2, -40],
+    iconRetinaUrl: markerIcon2x.src,
+    iconUrl: markerIcon.src,
+    shadowUrl: markerShadow.src,
+  })
+
   const map_container = document.getElementById("map")!;
   const map_data = JSON.parse(map_container.dataset.map!);
 
@@ -173,7 +186,7 @@ const { frontmatter } = await file("ostalo", lang);
   }).addTo(map);
 
   map_data.markers?.forEach(marker =>
-      leaflet.marker([marker.coords_lat, marker.coords_long])
+      leaflet.marker([marker.coords_lat, marker.coords_long], { icon: marker_icon })
         .addTo(map)
         .bindPopup(marker.text)
   );
