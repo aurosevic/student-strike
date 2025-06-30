@@ -61,7 +61,9 @@ const { frontmatter } = await file("ostalo", lang);
         </div>
       }
 
-      <div data-map={JSON.stringify(map)} id="map"></div>
+      { map &&
+        <div data-map={JSON.stringify(map)} id="map"></div>
+      }
 
       <Timeline {timeline} />
 
