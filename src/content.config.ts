@@ -19,6 +19,16 @@ const vesti = defineCollection({
 			slike: image().array(),
 			tekst: z.string().optional()
 		}).array().optional(),
+		map: z.object({
+			coords_lat: z.number(),
+			coords_long: z.number(),
+			zoom: z.number(),
+			markers: z.object({
+				coords_lat: z.number(),
+				coords_long: z.number(),
+				text: z.string(),
+			}).array().optional()
+		}).optional(),
 	}),
 });
 

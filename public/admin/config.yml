@@ -65,6 +65,23 @@ collections:
       - { label: "Datum objavljivanja", name: "pubDate", widget: "datetime", picker_utc: true, i18n: "duplicate" }
       - { label: "Datum izmene", name: "updatedDate", widget: "datetime", picker_utc: true, i18n: "duplicate", required: false }
       - { label: "Glavna slika", name: "heroImage", widget: "image", i18n: "duplicate" }
+      - label: Mapa
+        name: map
+        widget: object
+        required: false
+        fields:
+          - { label: "Geografska sirina", name: "coords_lat", widget: "number", value_type: "float", default: 44.81188056519224}
+          - { label: "Geografska duzina", name: "coords_long", widget: "number", value_type: "float", default: 20.46597658374507}
+          - { label: "Zoom", name: "zoom", widget: "number", default: 12 }
+          - label: Markeri
+            name: markers
+            widget: list
+            required: false
+            fields:
+              - { label: "Geografska sirina", name: "coords_lat", widget: "number", value_type: "float" }
+              - { label: "Geografska duzina", name: "coords_long", widget: "number", value_type: "float" }
+              - { label: "Tekst", name: "text", widget: "string" }
+
       - { label: "Opis", name: "description", widget: "text", i18n: true, required: false }
       - { label: "Tekst", name: "body", widget: "markdown", i18n: true }
       - label: Tajmlajn

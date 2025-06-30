@@ -7,9 +7,11 @@ import Live from "@components/Live.astro";
 import Timeline from "@components/Timeline.astro";
 import { file } from "@scripts/i18n";
 
+import 'leaflet/dist/leaflet.css';
+
 type Props = CollectionEntry<"vesti">["data"] & {lang: string, live?: boolean};
 
-const { lang, title, pubDate, updatedDate, heroImage, live = false, live_embed, timeline } = Astro.props;
+const { lang, title, pubDate, updatedDate, heroImage, live = false, live_embed, timeline, map = null } = Astro.props;
 
 const { lang: expectedLang } = Astro.params;
 
@@ -48,18 +50,21 @@ const { frontmatter } = await file("ostalo", lang);
       </div>
 
       {live_embed &&
-        <div class="live">
+        <div>
           <strong>{frontmatter.pratite_live}</strong>
           <br />
           <iframe
+            class="live-embed"
             src={`https://www.youtube-nocookie.com/embed/${live_embed}`} 
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen 
           />
         </div>
       }
-      
+
+      <div data-map={JSON.stringify(map)} id="map"></div>
+
       <Timeline {timeline} />
-      
+
       <slot />
     </div>
   </article>
@@ -70,6 +75,7 @@ const { frontmatter } = await file("ostalo", lang);
     margin-top: 2rem;
     width: 100%;
   }
+
   .hero-image img {
     display: block;
     margin: 0 auto;
@@ -98,9 +104,11 @@ const { frontmatter } = await file("ostalo", lang);
     text-align: center;
     line-height: 1;
   }
+
   .title h1 {
     margin: 0 0 0.5em 0;
   }
+
   .about {
     margin-bottom: 0.5em;
     color: rgb(var(--gray));
@@ -109,6 +117,7 @@ const { frontmatter } = await file("ostalo", lang);
     justify-content: center;
     gap: 1rem;
   }
+
   .last-updated-on {
     font-style: italic;
   }
@@ -128,11 +137,42 @@ const { frontmatter } = await file("ostalo", lang);
     }
   }
 
-  iframe {
+  .live-embed {
     max-width: 600px;
     width: 100%;
-    aspect-ratio: 16 / 9;
     border: none;
     border-radius: 8px;
+    aspect-ratio: 16/9;
+  }
+
+  #map {
+    max-width: 600px;
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    aspect-ratio: 16/9;
   }
 </style>
+
+<script>
+  import leaflet from "leaflet";
+
+  const map_container = document.getElementById("map")!;
+  const map_data = JSON.parse(map_container.dataset.map!);
+
+  const map = leaflet.map(map_container, {
+    center: leaflet.latLng(map_data.coords_lat, map_data.coords_long),
+    zoom: map_data.zoom,
+  });
+
+  leaflet.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
+
+  map_data.markers?.forEach(marker =>
+      leaflet.marker([marker.coords_lat, marker.coords_long])
+        .addTo(map)
+        .bindPopup(marker.text)
+  );
+</script>

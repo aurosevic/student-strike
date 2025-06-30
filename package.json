@@ -15,16 +15,16 @@
     "@astrojs/sitemap": "^3.4.1",
     "@astropub/md": "^1.0.0",
     "@iconify-json/mdi": "^1.2.3",
-    "@netlify/blobs": "^10.0.1",
-    "@netlify/functions": "^4.1.6",
-    "@oddbird/popover-polyfill": "^0.6.0",
-    "@sveltia/cms": "^0.81.0",
+    "@oddbird/popover-polyfill": "^0.6.1",
+    "@sveltia/cms": "^0.83.0",
     "astro": "^5.10.1",
     "astro-icon": "^1.1.5",
-    "sharp": "^0.34.2",
-    "web-push": "^3.6.7"
+    "leaflet": "^1.9.4",
+    "sharp": "^0.34.2"
   },
   "devDependencies": {
-    "netlify-cli": "^20.1.1"
+    "netlify-cli": "^20.1.1",
+    "@types/geojson": "^7946.0.16",
+    "@types/leaflet": "^1.9.19"
   }
 }
